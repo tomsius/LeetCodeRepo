@@ -63,15 +63,25 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1179. Reformat Department T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1290. Convert Binary Number in a Linked List to Integer", "1290. Convert Binary Number in a Linked List to Integer\1290. Convert Binary Number in a Linked List to Integer.csproj", "{9358E42C-8AC1-43F4-8740-35B107302272}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1720. Decode XORed Array", "1720. Decode XORed Array\1720. Decode XORed Array.csproj", "{38F2F663-E9D5-4A70-B29F-E289F8772E5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1720. Decode XORed Array", "1720. Decode XORed Array\1720. Decode XORed Array.csproj", "{38F2F663-E9D5-4A70-B29F-E289F8772E5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1773. Count Items Matching a Rule", "1773. Count Items Matching a Rule\1773. Count Items Matching a Rule.csproj", "{80D4EA96-BD1E-4EA7-8678-39D969ABE27F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1773. Count Items Matching a Rule", "1773. Count Items Matching a Rule\1773. Count Items Matching a Rule.csproj", "{80D4EA96-BD1E-4EA7-8678-39D969ABE27F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1832. Check if the Sentence Is Pangram", "1832. Check if the Sentence Is Pangram\1832. Check if the Sentence Is Pangram.csproj", "{BA9AAA11-1EFB-4E0A-BD5A-A05BCE16022E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1832. Check if the Sentence Is Pangram", "1832. Check if the Sentence Is Pangram\1832. Check if the Sentence Is Pangram.csproj", "{BA9AAA11-1EFB-4E0A-BD5A-A05BCE16022E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1588. Sum of All Odd Length Subarrays", "1588. Sum of All Odd Length Subarrays\1588. Sum of All Odd Length Subarrays.csproj", "{29A83252-D31D-443E-87D3-BACD0706B5D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1588. Sum of All Odd Length Subarrays", "1588. Sum of All Odd Length Subarrays\1588. Sum of All Odd Length Subarrays.csproj", "{29A83252-D31D-443E-87D3-BACD0706B5D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1844. Replace All Digits with Characters", "1844. Replace All Digits with Characters\1844. Replace All Digits with Characters.csproj", "{78FA34F5-F8E3-4FF4-8D43-A9B7D2E646A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1844. Replace All Digits with Characters", "1844. Replace All Digits with Characters\1844. Replace All Digits with Characters.csproj", "{78FA34F5-F8E3-4FF4-8D43-A9B7D2E646A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1859. Sorting the Sentence", "1859. Sorting the Sentence\1859. Sorting the Sentence.csproj", "{3362C876-0C0D-4F1E-94E8-48288873D6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "709. To Lower Case", "709. To Lower Case\709. To Lower Case.csproj", "{2B0D2DED-9E41-4B4E-AE0F-BF09DD4DA8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1534. Count Good Triplets", "1534. Count Good Triplets\1534. Count Good Triplets.csproj", "{82D96710-C704-4638-B051-0E03FF2C44F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1732. Find the Highest Altitude", "1732. Find the Highest Altitude\1732. Find the Highest Altitude.csproj", "{62DA84E0-E1B2-4A13-9D6A-BC7C99202E85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1816. Truncate Sentence", "1816. Truncate Sentence\1816. Truncate Sentence.csproj", "{8561D063-92FF-4D59-B5C0-39D3D8F53083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +229,26 @@ Global
 		{78FA34F5-F8E3-4FF4-8D43-A9B7D2E646A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{78FA34F5-F8E3-4FF4-8D43-A9B7D2E646A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{78FA34F5-F8E3-4FF4-8D43-A9B7D2E646A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3362C876-0C0D-4F1E-94E8-48288873D6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3362C876-0C0D-4F1E-94E8-48288873D6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3362C876-0C0D-4F1E-94E8-48288873D6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3362C876-0C0D-4F1E-94E8-48288873D6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B0D2DED-9E41-4B4E-AE0F-BF09DD4DA8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B0D2DED-9E41-4B4E-AE0F-BF09DD4DA8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B0D2DED-9E41-4B4E-AE0F-BF09DD4DA8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B0D2DED-9E41-4B4E-AE0F-BF09DD4DA8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82D96710-C704-4638-B051-0E03FF2C44F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D96710-C704-4638-B051-0E03FF2C44F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D96710-C704-4638-B051-0E03FF2C44F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D96710-C704-4638-B051-0E03FF2C44F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DA84E0-E1B2-4A13-9D6A-BC7C99202E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DA84E0-E1B2-4A13-9D6A-BC7C99202E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DA84E0-E1B2-4A13-9D6A-BC7C99202E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DA84E0-E1B2-4A13-9D6A-BC7C99202E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8561D063-92FF-4D59-B5C0-39D3D8F53083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8561D063-92FF-4D59-B5C0-39D3D8F53083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8561D063-92FF-4D59-B5C0-39D3D8F53083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8561D063-92FF-4D59-B5C0-39D3D8F53083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
