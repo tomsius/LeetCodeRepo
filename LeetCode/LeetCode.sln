@@ -73,15 +73,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1588. Sum of All Odd Length
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1844. Replace All Digits with Characters", "1844. Replace All Digits with Characters\1844. Replace All Digits with Characters.csproj", "{78FA34F5-F8E3-4FF4-8D43-A9B7D2E646A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1859. Sorting the Sentence", "1859. Sorting the Sentence\1859. Sorting the Sentence.csproj", "{3362C876-0C0D-4F1E-94E8-48288873D6BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1859. Sorting the Sentence", "1859. Sorting the Sentence\1859. Sorting the Sentence.csproj", "{3362C876-0C0D-4F1E-94E8-48288873D6BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "709. To Lower Case", "709. To Lower Case\709. To Lower Case.csproj", "{2B0D2DED-9E41-4B4E-AE0F-BF09DD4DA8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "709. To Lower Case", "709. To Lower Case\709. To Lower Case.csproj", "{2B0D2DED-9E41-4B4E-AE0F-BF09DD4DA8EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1534. Count Good Triplets", "1534. Count Good Triplets\1534. Count Good Triplets.csproj", "{82D96710-C704-4638-B051-0E03FF2C44F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1534. Count Good Triplets", "1534. Count Good Triplets\1534. Count Good Triplets.csproj", "{82D96710-C704-4638-B051-0E03FF2C44F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1732. Find the Highest Altitude", "1732. Find the Highest Altitude\1732. Find the Highest Altitude.csproj", "{62DA84E0-E1B2-4A13-9D6A-BC7C99202E85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1732. Find the Highest Altitude", "1732. Find the Highest Altitude\1732. Find the Highest Altitude.csproj", "{62DA84E0-E1B2-4A13-9D6A-BC7C99202E85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1816. Truncate Sentence", "1816. Truncate Sentence\1816. Truncate Sentence.csproj", "{8561D063-92FF-4D59-B5C0-39D3D8F53083}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1816. Truncate Sentence", "1816. Truncate Sentence\1816. Truncate Sentence.csproj", "{8561D063-92FF-4D59-B5C0-39D3D8F53083}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021. Remove Outermost Parentheses", "1021. Remove Outermost Parentheses\1021. Remove Outermost Parentheses.csproj", "{61766F5E-25A9-462A-82E6-3C943083A95E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1266. Minimum Time Visiting All Points", "1266. Minimum Time Visiting All Points\1266. Minimum Time Visiting All Points.csproj", "{9061AE09-228F-4E9B-BA32-97B879548410}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "804. Unique Morse Code Words", "804. Unique Morse Code Words\804. Unique Morse Code Words.csproj", "{0BD40FA1-2953-47CC-9061-44EA13472C5F}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "595. Big Countries", "595. Big Countries\595. Big Countries.sqlproj", "{919693DD-8877-4DB7-81AC-CAE0791D8113}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1704. Determine if String Halves Are Alike", "1704. Determine if String Halves Are Alike\1704. Determine if String Halves Are Alike.csproj", "{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +259,28 @@ Global
 		{8561D063-92FF-4D59-B5C0-39D3D8F53083}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8561D063-92FF-4D59-B5C0-39D3D8F53083}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8561D063-92FF-4D59-B5C0-39D3D8F53083}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61766F5E-25A9-462A-82E6-3C943083A95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61766F5E-25A9-462A-82E6-3C943083A95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61766F5E-25A9-462A-82E6-3C943083A95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61766F5E-25A9-462A-82E6-3C943083A95E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9061AE09-228F-4E9B-BA32-97B879548410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9061AE09-228F-4E9B-BA32-97B879548410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9061AE09-228F-4E9B-BA32-97B879548410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9061AE09-228F-4E9B-BA32-97B879548410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD40FA1-2953-47CC-9061-44EA13472C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD40FA1-2953-47CC-9061-44EA13472C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD40FA1-2953-47CC-9061-44EA13472C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD40FA1-2953-47CC-9061-44EA13472C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919693DD-8877-4DB7-81AC-CAE0791D8113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919693DD-8877-4DB7-81AC-CAE0791D8113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919693DD-8877-4DB7-81AC-CAE0791D8113}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{919693DD-8877-4DB7-81AC-CAE0791D8113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919693DD-8877-4DB7-81AC-CAE0791D8113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{919693DD-8877-4DB7-81AC-CAE0791D8113}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
