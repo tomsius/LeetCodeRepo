@@ -83,15 +83,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1732. Find the Highest Alti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1816. Truncate Sentence", "1816. Truncate Sentence\1816. Truncate Sentence.csproj", "{8561D063-92FF-4D59-B5C0-39D3D8F53083}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021. Remove Outermost Parentheses", "1021. Remove Outermost Parentheses\1021. Remove Outermost Parentheses.csproj", "{61766F5E-25A9-462A-82E6-3C943083A95E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1021. Remove Outermost Parentheses", "1021. Remove Outermost Parentheses\1021. Remove Outermost Parentheses.csproj", "{61766F5E-25A9-462A-82E6-3C943083A95E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1266. Minimum Time Visiting All Points", "1266. Minimum Time Visiting All Points\1266. Minimum Time Visiting All Points.csproj", "{9061AE09-228F-4E9B-BA32-97B879548410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1266. Minimum Time Visiting All Points", "1266. Minimum Time Visiting All Points\1266. Minimum Time Visiting All Points.csproj", "{9061AE09-228F-4E9B-BA32-97B879548410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "804. Unique Morse Code Words", "804. Unique Morse Code Words\804. Unique Morse Code Words.csproj", "{0BD40FA1-2953-47CC-9061-44EA13472C5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "804. Unique Morse Code Words", "804. Unique Morse Code Words\804. Unique Morse Code Words.csproj", "{0BD40FA1-2953-47CC-9061-44EA13472C5F}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "595. Big Countries", "595. Big Countries\595. Big Countries.sqlproj", "{919693DD-8877-4DB7-81AC-CAE0791D8113}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1704. Determine if String Halves Are Alike", "1704. Determine if String Halves Are Alike\1704. Determine if String Halves Are Alike.csproj", "{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1704. Determine if String Halves Are Alike", "1704. Determine if String Halves Are Alike\1704. Determine if String Halves Are Alike.csproj", "{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1863. Sum of All Subset XOR Totals", "1863. Sum of All Subset XOR Totals\1863. Sum of All Subset XOR Totals.csproj", "{B778513B-82D5-46C4-B2E2-F8D2745AEC32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1252. Cells with Odd Values in a Matrix", "1252. Cells with Odd Values in a Matrix\1252. Cells with Odd Values in a Matrix.csproj", "{C0901DE0-1F7D-4B4E-9417-E6080060AD5D}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "627. Swap Salary", "627. Swap Salary\627. Swap Salary.sqlproj", "{898979BE-3007-4C7C-9AAE-72837C445060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "832. Flipping an Image", "832. Flipping an Image\832. Flipping an Image.csproj", "{3EF2E98B-ECDE-4875-BDA8-D8833461DC85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1827. Minimum Operations to Make the Array Increasing", "1827. Minimum Operations to Make the Array Increasing\1827. Minimum Operations to Make the Array Increasing.csproj", "{3039FB92-DF30-4F6A-A94F-5390B7C1CFD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -281,6 +291,28 @@ Global
 		{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54D996A1-76F0-4F3D-9872-0C7E4BBC06FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B778513B-82D5-46C4-B2E2-F8D2745AEC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B778513B-82D5-46C4-B2E2-F8D2745AEC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B778513B-82D5-46C4-B2E2-F8D2745AEC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B778513B-82D5-46C4-B2E2-F8D2745AEC32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0901DE0-1F7D-4B4E-9417-E6080060AD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0901DE0-1F7D-4B4E-9417-E6080060AD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0901DE0-1F7D-4B4E-9417-E6080060AD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0901DE0-1F7D-4B4E-9417-E6080060AD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898979BE-3007-4C7C-9AAE-72837C445060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898979BE-3007-4C7C-9AAE-72837C445060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898979BE-3007-4C7C-9AAE-72837C445060}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{898979BE-3007-4C7C-9AAE-72837C445060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898979BE-3007-4C7C-9AAE-72837C445060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{898979BE-3007-4C7C-9AAE-72837C445060}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3EF2E98B-ECDE-4875-BDA8-D8833461DC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF2E98B-ECDE-4875-BDA8-D8833461DC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF2E98B-ECDE-4875-BDA8-D8833461DC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF2E98B-ECDE-4875-BDA8-D8833461DC85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3039FB92-DF30-4F6A-A94F-5390B7C1CFD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3039FB92-DF30-4F6A-A94F-5390B7C1CFD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3039FB92-DF30-4F6A-A94F-5390B7C1CFD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3039FB92-DF30-4F6A-A94F-5390B7C1CFD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
