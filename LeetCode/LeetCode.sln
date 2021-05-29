@@ -103,15 +103,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "832. Flipping an Image", "8
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1827. Minimum Operations to Make the Array Increasing", "1827. Minimum Operations to Make the Array Increasing\1827. Minimum Operations to Make the Array Increasing.csproj", "{3039FB92-DF30-4F6A-A94F-5390B7C1CFD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1725. Number Of Rectangles That Can Form The Largest Square", "1725. Number Of Rectangles That Can Form The Largest Square\1725. Number Of Rectangles That Can Form The Largest Square.csproj", "{30486548-F5D8-4DA3-9F04-238DF5944B0A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1725. Number Of Rectangles That Can Form The Largest Square", "1725. Number Of Rectangles That Can Form The Largest Square\1725. Number Of Rectangles That Can Form The Largest Square.csproj", "{30486548-F5D8-4DA3-9F04-238DF5944B0A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1323. Maximum 69 Number", "1323. Maximum 69 Number\1323. Maximum 69 Number.csproj", "{0CD6DB50-6E65-441D-B510-AA7B1FAA670E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1323. Maximum 69 Number", "1323. Maximum 69 Number\1323. Maximum 69 Number.csproj", "{0CD6DB50-6E65-441D-B510-AA7B1FAA670E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1572. Matrix Diagonal Sum", "1572. Matrix Diagonal Sum\1572. Matrix Diagonal Sum.csproj", "{2F68858D-3C92-48C0-AADE-FAE050996595}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1572. Matrix Diagonal Sum", "1572. Matrix Diagonal Sum\1572. Matrix Diagonal Sum.csproj", "{2F68858D-3C92-48C0-AADE-FAE050996595}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1309. Decrypt String from Alphabet to Integer Mapping", "1309. Decrypt String from Alphabet to Integer Mapping\1309. Decrypt String from Alphabet to Integer Mapping.csproj", "{E7BAFBD0-BF5C-40E6-ABA7-A40EEC33DE72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1309. Decrypt String from Alphabet to Integer Mapping", "1309. Decrypt String from Alphabet to Integer Mapping\1309. Decrypt String from Alphabet to Integer Mapping.csproj", "{E7BAFBD0-BF5C-40E6-ABA7-A40EEC33DE72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1812. Determine Color of a Chessboard Square", "1812. Determine Color of a Chessboard Square\1812. Determine Color of a Chessboard Square.csproj", "{AC82F390-DA79-4C0B-ACC1-71CD3C4C4C58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1812. Determine Color of a Chessboard Square", "1812. Determine Color of a Chessboard Square\1812. Determine Color of a Chessboard Square.csproj", "{AC82F390-DA79-4C0B-ACC1-71CD3C4C4C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1370. Increasing Decreasing String", "1370. Increasing Decreasing String\1370. Increasing Decreasing String.csproj", "{9C9E7443-3448-40A3-BEC8-4B1BB709BF52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436. Destination City", "1436. Destination City\1436. Destination City.csproj", "{9D21D16E-4EC5-45A9-8582-28CC23E5EE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1464. Maximum Product of Two Elements in an Array", "1464. Maximum Product of Two Elements in an Array\1464. Maximum Product of Two Elements in an Array.csproj", "{3D7E4329-35B5-4DFB-B1E1-E36BB380F0F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1374. Generate a String With Characters That Have Odd Counts", "1374. Generate a String With Characters That Have Odd Counts\1374. Generate a String With Characters That Have Odd Counts.csproj", "{11E250B9-96FF-4941-BE70-E0AFC326BDE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1450. Number of Students Doing Homework at a Given Time", "1450. Number of Students Doing Homework at a Given Time\1450. Number of Students Doing Homework at a Given Time.csproj", "{77DF7764-6252-42EA-8D80-09399C2AFCB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -343,6 +353,26 @@ Global
 		{AC82F390-DA79-4C0B-ACC1-71CD3C4C4C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC82F390-DA79-4C0B-ACC1-71CD3C4C4C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC82F390-DA79-4C0B-ACC1-71CD3C4C4C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C9E7443-3448-40A3-BEC8-4B1BB709BF52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C9E7443-3448-40A3-BEC8-4B1BB709BF52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C9E7443-3448-40A3-BEC8-4B1BB709BF52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C9E7443-3448-40A3-BEC8-4B1BB709BF52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D21D16E-4EC5-45A9-8582-28CC23E5EE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D21D16E-4EC5-45A9-8582-28CC23E5EE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D21D16E-4EC5-45A9-8582-28CC23E5EE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D21D16E-4EC5-45A9-8582-28CC23E5EE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7E4329-35B5-4DFB-B1E1-E36BB380F0F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7E4329-35B5-4DFB-B1E1-E36BB380F0F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7E4329-35B5-4DFB-B1E1-E36BB380F0F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7E4329-35B5-4DFB-B1E1-E36BB380F0F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E250B9-96FF-4941-BE70-E0AFC326BDE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E250B9-96FF-4941-BE70-E0AFC326BDE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E250B9-96FF-4941-BE70-E0AFC326BDE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E250B9-96FF-4941-BE70-E0AFC326BDE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DF7764-6252-42EA-8D80-09399C2AFCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF7764-6252-42EA-8D80-09399C2AFCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF7764-6252-42EA-8D80-09399C2AFCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF7764-6252-42EA-8D80-09399C2AFCB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1374._Generate_a_String_With_Characters_That_Have_Odd_Counts</RootNamespace>
+  </PropertyGroup>
+
+</Project>
