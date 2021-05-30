@@ -113,15 +113,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1309. Decrypt String from A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1812. Determine Color of a Chessboard Square", "1812. Determine Color of a Chessboard Square\1812. Determine Color of a Chessboard Square.csproj", "{AC82F390-DA79-4C0B-ACC1-71CD3C4C4C58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1370. Increasing Decreasing String", "1370. Increasing Decreasing String\1370. Increasing Decreasing String.csproj", "{9C9E7443-3448-40A3-BEC8-4B1BB709BF52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1370. Increasing Decreasing String", "1370. Increasing Decreasing String\1370. Increasing Decreasing String.csproj", "{9C9E7443-3448-40A3-BEC8-4B1BB709BF52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1436. Destination City", "1436. Destination City\1436. Destination City.csproj", "{9D21D16E-4EC5-45A9-8582-28CC23E5EE2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1436. Destination City", "1436. Destination City\1436. Destination City.csproj", "{9D21D16E-4EC5-45A9-8582-28CC23E5EE2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1464. Maximum Product of Two Elements in an Array", "1464. Maximum Product of Two Elements in an Array\1464. Maximum Product of Two Elements in an Array.csproj", "{3D7E4329-35B5-4DFB-B1E1-E36BB380F0F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1464. Maximum Product of Two Elements in an Array", "1464. Maximum Product of Two Elements in an Array\1464. Maximum Product of Two Elements in an Array.csproj", "{3D7E4329-35B5-4DFB-B1E1-E36BB380F0F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1374. Generate a String With Characters That Have Odd Counts", "1374. Generate a String With Characters That Have Odd Counts\1374. Generate a String With Characters That Have Odd Counts.csproj", "{11E250B9-96FF-4941-BE70-E0AFC326BDE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1374. Generate a String With Characters That Have Odd Counts", "1374. Generate a String With Characters That Have Odd Counts\1374. Generate a String With Characters That Have Odd Counts.csproj", "{11E250B9-96FF-4941-BE70-E0AFC326BDE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1450. Number of Students Doing Homework at a Given Time", "1450. Number of Students Doing Homework at a Given Time\1450. Number of Students Doing Homework at a Given Time.csproj", "{77DF7764-6252-42EA-8D80-09399C2AFCB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1450. Number of Students Doing Homework at a Given Time", "1450. Number of Students Doing Homework at a Given Time\1450. Number of Students Doing Homework at a Given Time.csproj", "{77DF7764-6252-42EA-8D80-09399C2AFCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1304. Find N Unique Integers Sum up to Zero", "1304. Find N Unique Integers Sum up to Zero\1304. Find N Unique Integers Sum up to Zero.csproj", "{AD5E5A44-08FC-43A6-9858-8C16622F90AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.csproj", "{A67AF0A6-4EBA-4AF9-B004-416A39D82B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351. Count Negative Numbers in a Sorted Matrix", "1351. Count Negative Numbers in a Sorted Matrix\1351. Count Negative Numbers in a Sorted Matrix.csproj", "{A5C335F5-C86B-4801-89CC-80CD45F7B521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1880. Check if Word Equals Summation of Two Words", "1880. Check if Word Equals Summation of Two Words\1880. Check if Word Equals Summation of Two Words.csproj", "{B32220CC-E441-4137-AD75-A7045D46F217}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "728. Self Dividing Numbers", "728. Self Dividing Numbers\728. Self Dividing Numbers.csproj", "{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -373,6 +383,26 @@ Global
 		{77DF7764-6252-42EA-8D80-09399C2AFCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77DF7764-6252-42EA-8D80-09399C2AFCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77DF7764-6252-42EA-8D80-09399C2AFCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD5E5A44-08FC-43A6-9858-8C16622F90AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5E5A44-08FC-43A6-9858-8C16622F90AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5E5A44-08FC-43A6-9858-8C16622F90AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5E5A44-08FC-43A6-9858-8C16622F90AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A67AF0A6-4EBA-4AF9-B004-416A39D82B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A67AF0A6-4EBA-4AF9-B004-416A39D82B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A67AF0A6-4EBA-4AF9-B004-416A39D82B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A67AF0A6-4EBA-4AF9-B004-416A39D82B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C335F5-C86B-4801-89CC-80CD45F7B521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C335F5-C86B-4801-89CC-80CD45F7B521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C335F5-C86B-4801-89CC-80CD45F7B521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C335F5-C86B-4801-89CC-80CD45F7B521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B32220CC-E441-4137-AD75-A7045D46F217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32220CC-E441-4137-AD75-A7045D46F217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32220CC-E441-4137-AD75-A7045D46F217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32220CC-E441-4137-AD75-A7045D46F217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
