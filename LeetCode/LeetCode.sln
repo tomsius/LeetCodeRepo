@@ -123,15 +123,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1374. Generate a String Wit
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1450. Number of Students Doing Homework at a Given Time", "1450. Number of Students Doing Homework at a Given Time\1450. Number of Students Doing Homework at a Given Time.csproj", "{77DF7764-6252-42EA-8D80-09399C2AFCB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1304. Find N Unique Integers Sum up to Zero", "1304. Find N Unique Integers Sum up to Zero\1304. Find N Unique Integers Sum up to Zero.csproj", "{AD5E5A44-08FC-43A6-9858-8C16622F90AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1304. Find N Unique Integers Sum up to Zero", "1304. Find N Unique Integers Sum up to Zero\1304. Find N Unique Integers Sum up to Zero.csproj", "{AD5E5A44-08FC-43A6-9858-8C16622F90AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.csproj", "{A67AF0A6-4EBA-4AF9-B004-416A39D82B7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "617. Merge Two Binary Trees", "617. Merge Two Binary Trees\617. Merge Two Binary Trees.csproj", "{A67AF0A6-4EBA-4AF9-B004-416A39D82B7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1351. Count Negative Numbers in a Sorted Matrix", "1351. Count Negative Numbers in a Sorted Matrix\1351. Count Negative Numbers in a Sorted Matrix.csproj", "{A5C335F5-C86B-4801-89CC-80CD45F7B521}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1351. Count Negative Numbers in a Sorted Matrix", "1351. Count Negative Numbers in a Sorted Matrix\1351. Count Negative Numbers in a Sorted Matrix.csproj", "{A5C335F5-C86B-4801-89CC-80CD45F7B521}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1880. Check if Word Equals Summation of Two Words", "1880. Check if Word Equals Summation of Two Words\1880. Check if Word Equals Summation of Two Words.csproj", "{B32220CC-E441-4137-AD75-A7045D46F217}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1880. Check if Word Equals Summation of Two Words", "1880. Check if Word Equals Summation of Two Words\1880. Check if Word Equals Summation of Two Words.csproj", "{B32220CC-E441-4137-AD75-A7045D46F217}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "728. Self Dividing Numbers", "728. Self Dividing Numbers\728. Self Dividing Numbers.csproj", "{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "728. Self Dividing Numbers", "728. Self Dividing Numbers\728. Self Dividing Numbers.csproj", "{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "905. Sort Array By Parity", "905. Sort Array By Parity\905. Sort Array By Parity.csproj", "{C3C2E4A7-205C-4950-A2C5-3627409D9AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "961. N-Repeated Element in Size 2N Array", "961. N-Repeated Element in Size 2N Array\961. N-Repeated Element in Size 2N Array.csproj", "{9BAED004-57EF-4EF7-8458-BA15CC2F952A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1837. Sum of Digits in Base K", "1837. Sum of Digits in Base K\1837. Sum of Digits in Base K.csproj", "{A91B20AB-C57E-4F5E-BFC5-6BDAF928DEB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1475. Final Prices With a Special Discount in a Shop", "1475. Final Prices With a Special Discount in a Shop\1475. Final Prices With a Special Discount in a Shop.csproj", "{57B83F0F-D5D7-4AFE-937D-761BE67E9A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1748. Sum of Unique Elements", "1748. Sum of Unique Elements\1748. Sum of Unique Elements.csproj", "{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -403,6 +413,26 @@ Global
 		{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C2E4A7-205C-4950-A2C5-3627409D9AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C2E4A7-205C-4950-A2C5-3627409D9AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C2E4A7-205C-4950-A2C5-3627409D9AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C2E4A7-205C-4950-A2C5-3627409D9AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAED004-57EF-4EF7-8458-BA15CC2F952A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAED004-57EF-4EF7-8458-BA15CC2F952A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAED004-57EF-4EF7-8458-BA15CC2F952A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAED004-57EF-4EF7-8458-BA15CC2F952A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91B20AB-C57E-4F5E-BFC5-6BDAF928DEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91B20AB-C57E-4F5E-BFC5-6BDAF928DEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91B20AB-C57E-4F5E-BFC5-6BDAF928DEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91B20AB-C57E-4F5E-BFC5-6BDAF928DEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57B83F0F-D5D7-4AFE-937D-761BE67E9A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57B83F0F-D5D7-4AFE-937D-761BE67E9A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57B83F0F-D5D7-4AFE-937D-761BE67E9A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57B83F0F-D5D7-4AFE-937D-761BE67E9A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
