@@ -133,15 +133,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1880. Check if Word Equals 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "728. Self Dividing Numbers", "728. Self Dividing Numbers\728. Self Dividing Numbers.csproj", "{6E825F5B-1886-43DB-A5B0-2206DE3F96B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "905. Sort Array By Parity", "905. Sort Array By Parity\905. Sort Array By Parity.csproj", "{C3C2E4A7-205C-4950-A2C5-3627409D9AAA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "905. Sort Array By Parity", "905. Sort Array By Parity\905. Sort Array By Parity.csproj", "{C3C2E4A7-205C-4950-A2C5-3627409D9AAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "961. N-Repeated Element in Size 2N Array", "961. N-Repeated Element in Size 2N Array\961. N-Repeated Element in Size 2N Array.csproj", "{9BAED004-57EF-4EF7-8458-BA15CC2F952A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "961. N-Repeated Element in Size 2N Array", "961. N-Repeated Element in Size 2N Array\961. N-Repeated Element in Size 2N Array.csproj", "{9BAED004-57EF-4EF7-8458-BA15CC2F952A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1837. Sum of Digits in Base K", "1837. Sum of Digits in Base K\1837. Sum of Digits in Base K.csproj", "{A91B20AB-C57E-4F5E-BFC5-6BDAF928DEB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1837. Sum of Digits in Base K", "1837. Sum of Digits in Base K\1837. Sum of Digits in Base K.csproj", "{A91B20AB-C57E-4F5E-BFC5-6BDAF928DEB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1475. Final Prices With a Special Discount in a Shop", "1475. Final Prices With a Special Discount in a Shop\1475. Final Prices With a Special Discount in a Shop.csproj", "{57B83F0F-D5D7-4AFE-937D-761BE67E9A5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1475. Final Prices With a Special Discount in a Shop", "1475. Final Prices With a Special Discount in a Shop\1475. Final Prices With a Special Discount in a Shop.csproj", "{57B83F0F-D5D7-4AFE-937D-761BE67E9A5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1748. Sum of Unique Elements", "1748. Sum of Unique Elements\1748. Sum of Unique Elements.csproj", "{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1748. Sum of Unique Elements", "1748. Sum of Unique Elements\1748. Sum of Unique Elements.csproj", "{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1299. Replace Elements with Greatest Element on Right Side", "1299. Replace Elements with Greatest Element on Right Side\1299. Replace Elements with Greatest Element on Right Side.csproj", "{70CEFC9C-6F0F-4234-BECD-44FAA09CA9FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately", "1768. Merge Strings Alternately\1768. Merge Strings Alternately.csproj", "{32325016-C8C6-48A3-8E16-6543A72D2D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "561. Array Partition I", "561. Array Partition I\561. Array Partition I.csproj", "{FF02876E-032E-4E1E-A804-B973105015AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "589. N-ary Tree Preorder Traversal", "589. N-ary Tree Preorder Traversal\589. N-ary Tree Preorder Traversal.csproj", "{F21CE8BA-4150-402C-9B10-1C221D33BC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "590. N-ary Tree Postorder Traversal", "590. N-ary Tree Postorder Traversal\590. N-ary Tree Postorder Traversal.csproj", "{4FC7C1A4-A674-44C8-BA46-AA63C78E7F89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -433,6 +443,26 @@ Global
 		{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4101DAA-0DB4-4E0A-958A-A54E4ADF9270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70CEFC9C-6F0F-4234-BECD-44FAA09CA9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CEFC9C-6F0F-4234-BECD-44FAA09CA9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CEFC9C-6F0F-4234-BECD-44FAA09CA9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CEFC9C-6F0F-4234-BECD-44FAA09CA9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32325016-C8C6-48A3-8E16-6543A72D2D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32325016-C8C6-48A3-8E16-6543A72D2D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32325016-C8C6-48A3-8E16-6543A72D2D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32325016-C8C6-48A3-8E16-6543A72D2D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF02876E-032E-4E1E-A804-B973105015AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF02876E-032E-4E1E-A804-B973105015AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF02876E-032E-4E1E-A804-B973105015AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF02876E-032E-4E1E-A804-B973105015AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F21CE8BA-4150-402C-9B10-1C221D33BC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21CE8BA-4150-402C-9B10-1C221D33BC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21CE8BA-4150-402C-9B10-1C221D33BC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21CE8BA-4150-402C-9B10-1C221D33BC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC7C1A4-A674-44C8-BA46-AA63C78E7F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC7C1A4-A674-44C8-BA46-AA63C78E7F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC7C1A4-A674-44C8-BA46-AA63C78E7F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC7C1A4-A674-44C8-BA46-AA63C78E7F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
