@@ -153,25 +153,35 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "589. N-ary Tree Preorder Tr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "590. N-ary Tree Postorder Traversal", "590. N-ary Tree Postorder Traversal\590. N-ary Tree Postorder Traversal.csproj", "{4FC7C1A4-A674-44C8-BA46-AA63C78E7F89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1460. Make Two Arrays Equal by Reversing Sub-arrays", "1460. Make Two Arrays Equal by Reversing Sub-arrays\1460. Make Two Arrays Equal by Reversing Sub-arrays.csproj", "{05BC4B39-EC0F-4F23-A429-DEC9EEB09D58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1460. Make Two Arrays Equal by Reversing Sub-arrays", "1460. Make Two Arrays Equal by Reversing Sub-arrays\1460. Make Two Arrays Equal by Reversing Sub-arrays.csproj", "{05BC4B39-EC0F-4F23-A429-DEC9EEB09D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1207. Unique Number of Occurrences", "1207. Unique Number of Occurrences\1207. Unique Number of Occurrences.csproj", "{01F9FE84-2E3D-4A2C-B3C9-DD70DC4220EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1207. Unique Number of Occurrences", "1207. Unique Number of Occurrences\1207. Unique Number of Occurrences.csproj", "{01F9FE84-2E3D-4A2C-B3C9-DD70DC4220EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "811. Subdomain Visit Count", "811. Subdomain Visit Count\811. Subdomain Visit Count.csproj", "{7FE3A79C-73C1-4A29-B870-35C5C1C02D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "811. Subdomain Visit Count", "811. Subdomain Visit Count\811. Subdomain Visit Count.csproj", "{7FE3A79C-73C1-4A29-B870-35C5C1C02D86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "461. Hamming Distance", "461. Hamming Distance\461. Hamming Distance.csproj", "{C61B2659-13D7-48FE-8B5E-CD4945537B47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "461. Hamming Distance", "461. Hamming Distance\461. Hamming Distance.csproj", "{C61B2659-13D7-48FE-8B5E-CD4945537B47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1742. Maximum Number of Balls in a Box", "1742. Maximum Number of Balls in a Box\1742. Maximum Number of Balls in a Box.csproj", "{32AE169D-E57E-4695-B57B-FE575296E868}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1742. Maximum Number of Balls in a Box", "1742. Maximum Number of Balls in a Box\1742. Maximum Number of Balls in a Box.csproj", "{32AE169D-E57E-4695-B57B-FE575296E868}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "933. Number of Recent Calls", "933. Number of Recent Calls\933. Number of Recent Calls.csproj", "{03F1D114-B779-402F-A2AA-996023759312}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "933. Number of Recent Calls", "933. Number of Recent Calls\933. Number of Recent Calls.csproj", "{03F1D114-B779-402F-A2AA-996023759312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1051. Height Checker", "1051. Height Checker\1051. Height Checker.csproj", "{E79A63ED-FCFA-4F6E-B17D-D87AE0A4AB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1051. Height Checker", "1051. Height Checker\1051. Height Checker.csproj", "{E79A63ED-FCFA-4F6E-B17D-D87AE0A4AB62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "344. Reverse String", "344. Reverse String\344. Reverse String.csproj", "{E05F25A7-77AA-46DB-9533-9BDEC5C6C5C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "344. Reverse String", "344. Reverse String\344. Reverse String.csproj", "{E05F25A7-77AA-46DB-9533-9BDEC5C6C5C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "541. Reverse String II", "541. Reverse String II\541. Reverse String II.csproj", "{CC1BB9BF-CDB5-4E23-87ED-561726310DBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "541. Reverse String II", "541. Reverse String II\541. Reverse String II.csproj", "{CC1BB9BF-CDB5-4E23-87ED-561726310DBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.csproj", "{663B2C44-0A4A-44A3-AF1A-8E8E58B8215D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "557. Reverse Words in a String III", "557. Reverse Words in a String III\557. Reverse Words in a String III.csproj", "{663B2C44-0A4A-44A3-AF1A-8E8E58B8215D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1337. The K Weakest Rows in a Matrix", "1337. The K Weakest Rows in a Matrix\1337. The K Weakest Rows in a Matrix.csproj", "{A77175D0-23F9-4548-9EAB-8562FA9A8776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1403. Minimum Subsequence in Non-Increasing Order", "1403. Minimum Subsequence in Non-Increasing Order\1403. Minimum Subsequence in Non-Increasing Order.csproj", "{190EE5F8-21DA-41E4-9541-342FDD77496E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1022. Sum of Root To Leaf Binary Numbers", "1022. Sum of Root To Leaf Binary Numbers\1022. Sum of Root To Leaf Binary Numbers.csproj", "{70740E59-E26F-47E4-A3CC-92A41B4973F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "852. Peak Index in a Mountain Array", "852. Peak Index in a Mountain Array\852. Peak Index in a Mountain Array.csproj", "{D04C15D8-D20E-4DD2-88C2-A7912B063054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "977. Squares of a Sorted Array", "977. Squares of a Sorted Array\977. Squares of a Sorted Array.csproj", "{D60F1F80-D4A2-4807-8CF0-71FFFCF1F3D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -523,6 +533,26 @@ Global
 		{663B2C44-0A4A-44A3-AF1A-8E8E58B8215D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{663B2C44-0A4A-44A3-AF1A-8E8E58B8215D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{663B2C44-0A4A-44A3-AF1A-8E8E58B8215D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A77175D0-23F9-4548-9EAB-8562FA9A8776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A77175D0-23F9-4548-9EAB-8562FA9A8776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A77175D0-23F9-4548-9EAB-8562FA9A8776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A77175D0-23F9-4548-9EAB-8562FA9A8776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190EE5F8-21DA-41E4-9541-342FDD77496E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190EE5F8-21DA-41E4-9541-342FDD77496E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190EE5F8-21DA-41E4-9541-342FDD77496E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190EE5F8-21DA-41E4-9541-342FDD77496E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70740E59-E26F-47E4-A3CC-92A41B4973F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70740E59-E26F-47E4-A3CC-92A41B4973F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70740E59-E26F-47E4-A3CC-92A41B4973F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70740E59-E26F-47E4-A3CC-92A41B4973F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04C15D8-D20E-4DD2-88C2-A7912B063054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04C15D8-D20E-4DD2-88C2-A7912B063054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04C15D8-D20E-4DD2-88C2-A7912B063054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04C15D8-D20E-4DD2-88C2-A7912B063054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60F1F80-D4A2-4807-8CF0-71FFFCF1F3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F1F80-D4A2-4807-8CF0-71FFFCF1F3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F1F80-D4A2-4807-8CF0-71FFFCF1F3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F1F80-D4A2-4807-8CF0-71FFFCF1F3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
