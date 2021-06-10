@@ -183,15 +183,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "852. Peak Index in a Mounta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "977. Squares of a Sorted Array", "977. Squares of a Sorted Array\977. Squares of a Sorted Array.csproj", "{D60F1F80-D4A2-4807-8CF0-71FFFCF1F3D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1047. Remove All Adjacent Duplicates In String", "1047. Remove All Adjacent Duplicates In String\1047. Remove All Adjacent Duplicates In String.csproj", "{6763AAB6-EC00-4ABC-B670-F6F88E295918}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1047. Remove All Adjacent Duplicates In String", "1047. Remove All Adjacent Duplicates In String\1047. Remove All Adjacent Duplicates In String.csproj", "{6763AAB6-EC00-4ABC-B670-F6F88E295918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "338. Counting Bits", "338. Counting Bits\338. Counting Bits.csproj", "{09564222-B719-41E1-AD9E-4E53C0647A81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "338. Counting Bits", "338. Counting Bits\338. Counting Bits.csproj", "{09564222-B719-41E1-AD9E-4E53C0647A81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1217. Minimum Cost to Move Chips to The Same Position", "1217. Minimum Cost to Move Chips to The Same Position\1217. Minimum Cost to Move Chips to The Same Position.csproj", "{C3E9F37E-3D6B-4FF2-A9C5-42676F52176F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1217. Minimum Cost to Move Chips to The Same Position", "1217. Minimum Cost to Move Chips to The Same Position\1217. Minimum Cost to Move Chips to The Same Position.csproj", "{C3E9F37E-3D6B-4FF2-A9C5-42676F52176F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "922. Sort Array By Parity II", "922. Sort Array By Parity II\922. Sort Array By Parity II.csproj", "{503E2D79-727C-4C07-BC83-54F402CBE943}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "922. Sort Array By Parity II", "922. Sort Array By Parity II\922. Sort Array By Parity II.csproj", "{503E2D79-727C-4C07-BC83-54F402CBE943}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "620. Not Boring Movies", "620. Not Boring Movies\620. Not Boring Movies.sqlproj", "{0B400774-6CF7-4F2A-95A0-9F8A69AB1446}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "944. Delete Columns to Make Sorted", "944. Delete Columns to Make Sorted\944. Delete Columns to Make Sorted.csproj", "{7157C504-859D-4ED3-8B43-3C340E5A1D29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1356. Sort Integers by The Number of 1 Bits", "1356. Sort Integers by The Number of 1 Bits\1356. Sort Integers by The Number of 1 Bits.csproj", "{88DB01AA-0A60-4E69-825B-172247D034A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence\1502. Can Make Arithmetic Progression From Sequence.csproj", "{AC1B24CA-A0C3-4A28-BE3B-62BF317687F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1380. Lucky Numbers in a Matrix", "1380. Lucky Numbers in a Matrix\1380. Lucky Numbers in a Matrix.csproj", "{DF8AB881-D5B6-4E21-AEC6-3CD422CD55FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1441. Build an Array With Stack Operations", "1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations.csproj", "{729146D9-3C3A-4AA8-940A-2952C006A259}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -585,6 +595,26 @@ Global
 		{0B400774-6CF7-4F2A-95A0-9F8A69AB1446}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B400774-6CF7-4F2A-95A0-9F8A69AB1446}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0B400774-6CF7-4F2A-95A0-9F8A69AB1446}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7157C504-859D-4ED3-8B43-3C340E5A1D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7157C504-859D-4ED3-8B43-3C340E5A1D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7157C504-859D-4ED3-8B43-3C340E5A1D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7157C504-859D-4ED3-8B43-3C340E5A1D29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DB01AA-0A60-4E69-825B-172247D034A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DB01AA-0A60-4E69-825B-172247D034A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DB01AA-0A60-4E69-825B-172247D034A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DB01AA-0A60-4E69-825B-172247D034A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1B24CA-A0C3-4A28-BE3B-62BF317687F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1B24CA-A0C3-4A28-BE3B-62BF317687F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1B24CA-A0C3-4A28-BE3B-62BF317687F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1B24CA-A0C3-4A28-BE3B-62BF317687F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF8AB881-D5B6-4E21-AEC6-3CD422CD55FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF8AB881-D5B6-4E21-AEC6-3CD422CD55FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF8AB881-D5B6-4E21-AEC6-3CD422CD55FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF8AB881-D5B6-4E21-AEC6-3CD422CD55FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729146D9-3C3A-4AA8-940A-2952C006A259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729146D9-3C3A-4AA8-940A-2952C006A259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729146D9-3C3A-4AA8-940A-2952C006A259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729146D9-3C3A-4AA8-940A-2952C006A259}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
