@@ -193,15 +193,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "922. Sort Array By Parity I
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "620. Not Boring Movies", "620. Not Boring Movies\620. Not Boring Movies.sqlproj", "{0B400774-6CF7-4F2A-95A0-9F8A69AB1446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "944. Delete Columns to Make Sorted", "944. Delete Columns to Make Sorted\944. Delete Columns to Make Sorted.csproj", "{7157C504-859D-4ED3-8B43-3C340E5A1D29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "944. Delete Columns to Make Sorted", "944. Delete Columns to Make Sorted\944. Delete Columns to Make Sorted.csproj", "{7157C504-859D-4ED3-8B43-3C340E5A1D29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1356. Sort Integers by The Number of 1 Bits", "1356. Sort Integers by The Number of 1 Bits\1356. Sort Integers by The Number of 1 Bits.csproj", "{88DB01AA-0A60-4E69-825B-172247D034A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1356. Sort Integers by The Number of 1 Bits", "1356. Sort Integers by The Number of 1 Bits\1356. Sort Integers by The Number of 1 Bits.csproj", "{88DB01AA-0A60-4E69-825B-172247D034A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence\1502. Can Make Arithmetic Progression From Sequence.csproj", "{AC1B24CA-A0C3-4A28-BE3B-62BF317687F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence\1502. Can Make Arithmetic Progression From Sequence.csproj", "{AC1B24CA-A0C3-4A28-BE3B-62BF317687F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1380. Lucky Numbers in a Matrix", "1380. Lucky Numbers in a Matrix\1380. Lucky Numbers in a Matrix.csproj", "{DF8AB881-D5B6-4E21-AEC6-3CD422CD55FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1380. Lucky Numbers in a Matrix", "1380. Lucky Numbers in a Matrix\1380. Lucky Numbers in a Matrix.csproj", "{DF8AB881-D5B6-4E21-AEC6-3CD422CD55FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1441. Build an Array With Stack Operations", "1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations.csproj", "{729146D9-3C3A-4AA8-940A-2952C006A259}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1441. Build an Array With Stack Operations", "1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations.csproj", "{729146D9-3C3A-4AA8-940A-2952C006A259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1710. Maximum Units on a Truck", "1710. Maximum Units on a Truck\1710. Maximum Units on a Truck.csproj", "{374EE65E-4898-425D-AC26-D8D72D34C098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "821. Shortest Distance to a Character", "821. Shortest Distance to a Character\821. Shortest Distance to a Character.csproj", "{A836E266-0708-46E4-877C-5431B71EF18C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "893. Groups of Special-Equivalent Strings", "893. Groups of Special-Equivalent Strings\893. Groups of Special-Equivalent Strings.csproj", "{3D9E5795-197F-49BB-975F-64519998F715}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "559. Maximum Depth of N-ary Tree", "559. Maximum Depth of N-ary Tree\559. Maximum Depth of N-ary Tree.csproj", "{871F5826-F178-4F5F-BBB1-E1D5BB7BB7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{7A03AD35-F59D-46D6-8801-67540BC4EE6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -615,6 +625,26 @@ Global
 		{729146D9-3C3A-4AA8-940A-2952C006A259}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{729146D9-3C3A-4AA8-940A-2952C006A259}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{729146D9-3C3A-4AA8-940A-2952C006A259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{374EE65E-4898-425D-AC26-D8D72D34C098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{374EE65E-4898-425D-AC26-D8D72D34C098}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{374EE65E-4898-425D-AC26-D8D72D34C098}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{374EE65E-4898-425D-AC26-D8D72D34C098}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A836E266-0708-46E4-877C-5431B71EF18C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A836E266-0708-46E4-877C-5431B71EF18C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A836E266-0708-46E4-877C-5431B71EF18C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A836E266-0708-46E4-877C-5431B71EF18C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9E5795-197F-49BB-975F-64519998F715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9E5795-197F-49BB-975F-64519998F715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9E5795-197F-49BB-975F-64519998F715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9E5795-197F-49BB-975F-64519998F715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871F5826-F178-4F5F-BBB1-E1D5BB7BB7B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871F5826-F178-4F5F-BBB1-E1D5BB7BB7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871F5826-F178-4F5F-BBB1-E1D5BB7BB7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871F5826-F178-4F5F-BBB1-E1D5BB7BB7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A03AD35-F59D-46D6-8801-67540BC4EE6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A03AD35-F59D-46D6-8801-67540BC4EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A03AD35-F59D-46D6-8801-67540BC4EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A03AD35-F59D-46D6-8801-67540BC4EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
