@@ -203,15 +203,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1380. Lucky Numbers in a Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1441. Build an Array With Stack Operations", "1441. Build an Array With Stack Operations\1441. Build an Array With Stack Operations.csproj", "{729146D9-3C3A-4AA8-940A-2952C006A259}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1710. Maximum Units on a Truck", "1710. Maximum Units on a Truck\1710. Maximum Units on a Truck.csproj", "{374EE65E-4898-425D-AC26-D8D72D34C098}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1710. Maximum Units on a Truck", "1710. Maximum Units on a Truck\1710. Maximum Units on a Truck.csproj", "{374EE65E-4898-425D-AC26-D8D72D34C098}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "821. Shortest Distance to a Character", "821. Shortest Distance to a Character\821. Shortest Distance to a Character.csproj", "{A836E266-0708-46E4-877C-5431B71EF18C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "821. Shortest Distance to a Character", "821. Shortest Distance to a Character\821. Shortest Distance to a Character.csproj", "{A836E266-0708-46E4-877C-5431B71EF18C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "893. Groups of Special-Equivalent Strings", "893. Groups of Special-Equivalent Strings\893. Groups of Special-Equivalent Strings.csproj", "{3D9E5795-197F-49BB-975F-64519998F715}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "893. Groups of Special-Equivalent Strings", "893. Groups of Special-Equivalent Strings\893. Groups of Special-Equivalent Strings.csproj", "{3D9E5795-197F-49BB-975F-64519998F715}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "559. Maximum Depth of N-ary Tree", "559. Maximum Depth of N-ary Tree\559. Maximum Depth of N-ary Tree.csproj", "{871F5826-F178-4F5F-BBB1-E1D5BB7BB7B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "559. Maximum Depth of N-ary Tree", "559. Maximum Depth of N-ary Tree\559. Maximum Depth of N-ary Tree.csproj", "{871F5826-F178-4F5F-BBB1-E1D5BB7BB7B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{7A03AD35-F59D-46D6-8801-67540BC4EE6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{7A03AD35-F59D-46D6-8801-67540BC4EE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1913. Maximum Product Difference Between Two Pairs", "1913. Maximum Product Difference Between Two Pairs\1913. Maximum Product Difference Between Two Pairs.csproj", "{A0697CBD-7B77-428D-8C0B-B2671F1D6CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1791. Find Center of Star Graph", "1791. Find Center of Star Graph\1791. Find Center of Star Graph.csproj", "{7DD61FB0-EFCF-43B6-82ED-2B3367693D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.csproj", "{F76731F3-FD7B-4E78-845F-7FA9BB9E60A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "883. Projection Area of 3D Shapes", "883. Projection Area of 3D Shapes\883. Projection Area of 3D Shapes.csproj", "{3D28D829-2124-4C6A-9491-00B296E5F111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002. Find Common Characters", "1002. Find Common Characters\1002. Find Common Characters.csproj", "{689DEEE3-F478-432C-86CB-BFB88D0ABE03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -645,6 +655,26 @@ Global
 		{7A03AD35-F59D-46D6-8801-67540BC4EE6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A03AD35-F59D-46D6-8801-67540BC4EE6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A03AD35-F59D-46D6-8801-67540BC4EE6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0697CBD-7B77-428D-8C0B-B2671F1D6CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0697CBD-7B77-428D-8C0B-B2671F1D6CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0697CBD-7B77-428D-8C0B-B2671F1D6CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0697CBD-7B77-428D-8C0B-B2671F1D6CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD61FB0-EFCF-43B6-82ED-2B3367693D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD61FB0-EFCF-43B6-82ED-2B3367693D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD61FB0-EFCF-43B6-82ED-2B3367693D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD61FB0-EFCF-43B6-82ED-2B3367693D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76731F3-FD7B-4E78-845F-7FA9BB9E60A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76731F3-FD7B-4E78-845F-7FA9BB9E60A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76731F3-FD7B-4E78-845F-7FA9BB9E60A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76731F3-FD7B-4E78-845F-7FA9BB9E60A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D28D829-2124-4C6A-9491-00B296E5F111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D28D829-2124-4C6A-9491-00B296E5F111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D28D829-2124-4C6A-9491-00B296E5F111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D28D829-2124-4C6A-9491-00B296E5F111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689DEEE3-F478-432C-86CB-BFB88D0ABE03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689DEEE3-F478-432C-86CB-BFB88D0ABE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689DEEE3-F478-432C-86CB-BFB88D0ABE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689DEEE3-F478-432C-86CB-BFB88D0ABE03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
