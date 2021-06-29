@@ -213,15 +213,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "559. Maximum Depth of N-ary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "876. Middle of the Linked List", "876. Middle of the Linked List\876. Middle of the Linked List.csproj", "{7A03AD35-F59D-46D6-8801-67540BC4EE6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1913. Maximum Product Difference Between Two Pairs", "1913. Maximum Product Difference Between Two Pairs\1913. Maximum Product Difference Between Two Pairs.csproj", "{A0697CBD-7B77-428D-8C0B-B2671F1D6CFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1913. Maximum Product Difference Between Two Pairs", "1913. Maximum Product Difference Between Two Pairs\1913. Maximum Product Difference Between Two Pairs.csproj", "{A0697CBD-7B77-428D-8C0B-B2671F1D6CFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1791. Find Center of Star Graph", "1791. Find Center of Star Graph\1791. Find Center of Star Graph.csproj", "{7DD61FB0-EFCF-43B6-82ED-2B3367693D0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1791. Find Center of Star Graph", "1791. Find Center of Star Graph\1791. Find Center of Star Graph.csproj", "{7DD61FB0-EFCF-43B6-82ED-2B3367693D0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.csproj", "{F76731F3-FD7B-4E78-845F-7FA9BB9E60A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.csproj", "{F76731F3-FD7B-4E78-845F-7FA9BB9E60A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "883. Projection Area of 3D Shapes", "883. Projection Area of 3D Shapes\883. Projection Area of 3D Shapes.csproj", "{3D28D829-2124-4C6A-9491-00B296E5F111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "883. Projection Area of 3D Shapes", "883. Projection Area of 3D Shapes\883. Projection Area of 3D Shapes.csproj", "{3D28D829-2124-4C6A-9491-00B296E5F111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002. Find Common Characters", "1002. Find Common Characters\1002. Find Common Characters.csproj", "{689DEEE3-F478-432C-86CB-BFB88D0ABE03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1002. Find Common Characters", "1002. Find Common Characters\1002. Find Common Characters.csproj", "{689DEEE3-F478-432C-86CB-BFB88D0ABE03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1332. Remove Palindromic Subsequences", "1332. Remove Palindromic Subsequences\1332. Remove Palindromic Subsequences.csproj", "{0B787ABA-CECB-41BF-890B-9CCAEA2F65E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "237. Delete Node in a Linked List", "237. Delete Node in a Linked List\237. Delete Node in a Linked List.csproj", "{786FEC52-7C71-4848-B31E-A9EE93334578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1030. Matrix Cells in Distance Order", "1030. Matrix Cells in Distance Order\1030. Matrix Cells in Distance Order.csproj", "{459C7484-63A6-4897-B9AC-F82C1C763D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226. Invert Binary Tree", "226. Invert Binary Tree\226. Invert Binary Tree.csproj", "{5774D8B9-0FE9-4F21-8456-4BF62C2D95CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "965. Univalued Binary Tree", "965. Univalued Binary Tree\965. Univalued Binary Tree.csproj", "{5D3721A5-5221-4474-B45B-30FDF2EF298D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -675,6 +685,26 @@ Global
 		{689DEEE3-F478-432C-86CB-BFB88D0ABE03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{689DEEE3-F478-432C-86CB-BFB88D0ABE03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{689DEEE3-F478-432C-86CB-BFB88D0ABE03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B787ABA-CECB-41BF-890B-9CCAEA2F65E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B787ABA-CECB-41BF-890B-9CCAEA2F65E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B787ABA-CECB-41BF-890B-9CCAEA2F65E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B787ABA-CECB-41BF-890B-9CCAEA2F65E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786FEC52-7C71-4848-B31E-A9EE93334578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786FEC52-7C71-4848-B31E-A9EE93334578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786FEC52-7C71-4848-B31E-A9EE93334578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786FEC52-7C71-4848-B31E-A9EE93334578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459C7484-63A6-4897-B9AC-F82C1C763D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459C7484-63A6-4897-B9AC-F82C1C763D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459C7484-63A6-4897-B9AC-F82C1C763D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459C7484-63A6-4897-B9AC-F82C1C763D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5774D8B9-0FE9-4F21-8456-4BF62C2D95CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5774D8B9-0FE9-4F21-8456-4BF62C2D95CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5774D8B9-0FE9-4F21-8456-4BF62C2D95CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5774D8B9-0FE9-4F21-8456-4BF62C2D95CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3721A5-5221-4474-B45B-30FDF2EF298D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3721A5-5221-4474-B45B-30FDF2EF298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3721A5-5221-4474-B45B-30FDF2EF298D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3721A5-5221-4474-B45B-30FDF2EF298D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
