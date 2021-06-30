@@ -223,15 +223,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "883. Projection Area of 3D 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1002. Find Common Characters", "1002. Find Common Characters\1002. Find Common Characters.csproj", "{689DEEE3-F478-432C-86CB-BFB88D0ABE03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1332. Remove Palindromic Subsequences", "1332. Remove Palindromic Subsequences\1332. Remove Palindromic Subsequences.csproj", "{0B787ABA-CECB-41BF-890B-9CCAEA2F65E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1332. Remove Palindromic Subsequences", "1332. Remove Palindromic Subsequences\1332. Remove Palindromic Subsequences.csproj", "{0B787ABA-CECB-41BF-890B-9CCAEA2F65E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "237. Delete Node in a Linked List", "237. Delete Node in a Linked List\237. Delete Node in a Linked List.csproj", "{786FEC52-7C71-4848-B31E-A9EE93334578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "237. Delete Node in a Linked List", "237. Delete Node in a Linked List\237. Delete Node in a Linked List.csproj", "{786FEC52-7C71-4848-B31E-A9EE93334578}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1030. Matrix Cells in Distance Order", "1030. Matrix Cells in Distance Order\1030. Matrix Cells in Distance Order.csproj", "{459C7484-63A6-4897-B9AC-F82C1C763D16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1030. Matrix Cells in Distance Order", "1030. Matrix Cells in Distance Order\1030. Matrix Cells in Distance Order.csproj", "{459C7484-63A6-4897-B9AC-F82C1C763D16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226. Invert Binary Tree", "226. Invert Binary Tree\226. Invert Binary Tree.csproj", "{5774D8B9-0FE9-4F21-8456-4BF62C2D95CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "226. Invert Binary Tree", "226. Invert Binary Tree\226. Invert Binary Tree.csproj", "{5774D8B9-0FE9-4F21-8456-4BF62C2D95CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "965. Univalued Binary Tree", "965. Univalued Binary Tree\965. Univalued Binary Tree.csproj", "{5D3721A5-5221-4474-B45B-30FDF2EF298D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "965. Univalued Binary Tree", "965. Univalued Binary Tree\965. Univalued Binary Tree.csproj", "{5D3721A5-5221-4474-B45B-30FDF2EF298D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1876. Substrings of Size Three with Distinct Characters", "1876. Substrings of Size Three with Distinct Characters\1876. Substrings of Size Three with Distinct Characters.csproj", "{09DD3B64-1C8F-4AD0-B0D5-F4236831FD5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "682. Baseball Game", "682. Baseball Game\682. Baseball Game.csproj", "{83B9E1D8-8CCF-47AF-803C-C109C8533697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1122. Relative Sort Array", "1122. Relative Sort Array\1122. Relative Sort Array.csproj", "{B40D89B6-A8AD-4542-B58A-74D8B9507D5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1160. Find Words That Can Be Formed by Characters", "1160. Find Words That Can Be Formed by Characters\1160. Find Words That Can Be Formed by Characters.csproj", "{8D2BC274-E4F1-4D4B-8879-05703B6906D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1491. Average Salary Excluding the Minimum and Maximum Salary", "1491. Average Salary Excluding the Minimum and Maximum Salary\1491. Average Salary Excluding the Minimum and Maximum Salary.csproj", "{E54DCA1D-68FC-41CC-A988-E86948C8CA9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -705,6 +715,26 @@ Global
 		{5D3721A5-5221-4474-B45B-30FDF2EF298D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D3721A5-5221-4474-B45B-30FDF2EF298D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D3721A5-5221-4474-B45B-30FDF2EF298D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09DD3B64-1C8F-4AD0-B0D5-F4236831FD5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09DD3B64-1C8F-4AD0-B0D5-F4236831FD5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09DD3B64-1C8F-4AD0-B0D5-F4236831FD5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09DD3B64-1C8F-4AD0-B0D5-F4236831FD5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83B9E1D8-8CCF-47AF-803C-C109C8533697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83B9E1D8-8CCF-47AF-803C-C109C8533697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83B9E1D8-8CCF-47AF-803C-C109C8533697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83B9E1D8-8CCF-47AF-803C-C109C8533697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40D89B6-A8AD-4542-B58A-74D8B9507D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40D89B6-A8AD-4542-B58A-74D8B9507D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40D89B6-A8AD-4542-B58A-74D8B9507D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40D89B6-A8AD-4542-B58A-74D8B9507D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2BC274-E4F1-4D4B-8879-05703B6906D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2BC274-E4F1-4D4B-8879-05703B6906D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2BC274-E4F1-4D4B-8879-05703B6906D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2BC274-E4F1-4D4B-8879-05703B6906D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E54DCA1D-68FC-41CC-A988-E86948C8CA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54DCA1D-68FC-41CC-A988-E86948C8CA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54DCA1D-68FC-41CC-A988-E86948C8CA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54DCA1D-68FC-41CC-A988-E86948C8CA9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
