@@ -243,15 +243,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1160. Find Words That Can B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1491. Average Salary Excluding the Minimum and Maximum Salary", "1491. Average Salary Excluding the Minimum and Maximum Salary\1491. Average Salary Excluding the Minimum and Maximum Salary.csproj", "{E54DCA1D-68FC-41CC-A988-E86948C8CA9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "509. Fibonacci Number", "509. Fibonacci Number\509. Fibonacci Number.csproj", "{AD3D060B-FE18-424A-BF94-BC24FCF20D07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "509. Fibonacci Number", "509. Fibonacci Number\509. Fibonacci Number.csproj", "{AD3D060B-FE18-424A-BF94-BC24FCF20D07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "999. Available Captures for Rook", "999. Available Captures for Rook\999. Available Captures for Rook.csproj", "{7F506E20-6444-46BE-80B5-157A70850671}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "999. Available Captures for Rook", "999. Available Captures for Rook\999. Available Captures for Rook.csproj", "{7F506E20-6444-46BE-80B5-157A70850671}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1700. Number of Students Unable to Eat Lunch", "1700. Number of Students Unable to Eat Lunch\1700. Number of Students Unable to Eat Lunch.csproj", "{F2B6FBA1-749B-49C8-8150-244822B439CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1700. Number of Students Unable to Eat Lunch", "1700. Number of Students Unable to Eat Lunch\1700. Number of Students Unable to Eat Lunch.csproj", "{F2B6FBA1-749B-49C8-8150-244822B439CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1114. Print in Order", "1114. Print in Order\1114. Print in Order.csproj", "{4F31C6CA-5B4D-47A1-BA4F-A7AA51A21431}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1114. Print in Order", "1114. Print in Order\1114. Print in Order.csproj", "{4F31C6CA-5B4D-47A1-BA4F-A7AA51A21431}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94. Binary Tree Inorder Traversal", "94. Binary Tree Inorder Traversal\94. Binary Tree Inorder Traversal.csproj", "{D37B39C4-2F23-44D1-8673-8BE5390E58DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "94. Binary Tree Inorder Traversal", "94. Binary Tree Inorder Traversal\94. Binary Tree Inorder Traversal.csproj", "{D37B39C4-2F23-44D1-8673-8BE5390E58DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1636. Sort Array by Increasing Frequency", "1636. Sort Array by Increasing Frequency\1636. Sort Array by Increasing Frequency.csproj", "{F9CA802E-4288-42D3-91AC-E8A178A90DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "463. Island Perimeter", "463. Island Perimeter\463. Island Perimeter.csproj", "{838CF7A8-AD85-402F-AD47-791754D46E0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "929. Unique Email Addresses", "929. Unique Email Addresses\929. Unique Email Addresses.csproj", "{F99CA73C-0773-4418-B6BD-865A1F493379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1200. Minimum Absolute Difference", "1200. Minimum Absolute Difference\1200. Minimum Absolute Difference.csproj", "{EC3035FF-F767-4396-9F72-2072471D856A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "136. Single Number", "136. Single Number\136. Single Number.csproj", "{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -765,6 +775,26 @@ Global
 		{D37B39C4-2F23-44D1-8673-8BE5390E58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D37B39C4-2F23-44D1-8673-8BE5390E58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D37B39C4-2F23-44D1-8673-8BE5390E58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CA802E-4288-42D3-91AC-E8A178A90DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CA802E-4288-42D3-91AC-E8A178A90DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CA802E-4288-42D3-91AC-E8A178A90DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CA802E-4288-42D3-91AC-E8A178A90DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838CF7A8-AD85-402F-AD47-791754D46E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838CF7A8-AD85-402F-AD47-791754D46E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838CF7A8-AD85-402F-AD47-791754D46E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838CF7A8-AD85-402F-AD47-791754D46E0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F99CA73C-0773-4418-B6BD-865A1F493379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F99CA73C-0773-4418-B6BD-865A1F493379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F99CA73C-0773-4418-B6BD-865A1F493379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F99CA73C-0773-4418-B6BD-865A1F493379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3035FF-F767-4396-9F72-2072471D856A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3035FF-F767-4396-9F72-2072471D856A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3035FF-F767-4396-9F72-2072471D856A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3035FF-F767-4396-9F72-2072471D856A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
