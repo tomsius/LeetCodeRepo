@@ -253,15 +253,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1114. Print in Order", "111
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "94. Binary Tree Inorder Traversal", "94. Binary Tree Inorder Traversal\94. Binary Tree Inorder Traversal.csproj", "{D37B39C4-2F23-44D1-8673-8BE5390E58DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1636. Sort Array by Increasing Frequency", "1636. Sort Array by Increasing Frequency\1636. Sort Array by Increasing Frequency.csproj", "{F9CA802E-4288-42D3-91AC-E8A178A90DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1636. Sort Array by Increasing Frequency", "1636. Sort Array by Increasing Frequency\1636. Sort Array by Increasing Frequency.csproj", "{F9CA802E-4288-42D3-91AC-E8A178A90DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "463. Island Perimeter", "463. Island Perimeter\463. Island Perimeter.csproj", "{838CF7A8-AD85-402F-AD47-791754D46E0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "463. Island Perimeter", "463. Island Perimeter\463. Island Perimeter.csproj", "{838CF7A8-AD85-402F-AD47-791754D46E0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "929. Unique Email Addresses", "929. Unique Email Addresses\929. Unique Email Addresses.csproj", "{F99CA73C-0773-4418-B6BD-865A1F493379}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "929. Unique Email Addresses", "929. Unique Email Addresses\929. Unique Email Addresses.csproj", "{F99CA73C-0773-4418-B6BD-865A1F493379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1200. Minimum Absolute Difference", "1200. Minimum Absolute Difference\1200. Minimum Absolute Difference.csproj", "{EC3035FF-F767-4396-9F72-2072471D856A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1200. Minimum Absolute Difference", "1200. Minimum Absolute Difference\1200. Minimum Absolute Difference.csproj", "{EC3035FF-F767-4396-9F72-2072471D856A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "136. Single Number", "136. Single Number\136. Single Number.csproj", "{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "136. Single Number", "136. Single Number\136. Single Number.csproj", "{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1920. Build Array from Permutation", "1920. Build Array from Permutation\1920. Build Array from Permutation.csproj", "{64FE6B2D-392D-4B8B-9C5F-17EA7701E705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "824. Goat Latin", "824. Goat Latin\824. Goat Latin.csproj", "{7B28879E-FB5E-4A9E-8EDE-2A0F9B86C8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate", "1779. Find Nearest Point That Has the Same X or Y Coordinate\1779. Find Nearest Point That Has the Same X or Y Coordinate.csproj", "{96553B41-F0F6-4AC7-AFC0-1208452DF577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{0C38DD4B-D7CD-48F1-A274-A82647AFFA2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "637. Average of Levels in Binary Tree", "637. Average of Levels in Binary Tree\637. Average of Levels in Binary Tree.csproj", "{CADA442A-41B0-4B68-ACB3-10BA028D77CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -795,6 +805,26 @@ Global
 		{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64FE6B2D-392D-4B8B-9C5F-17EA7701E705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FE6B2D-392D-4B8B-9C5F-17EA7701E705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FE6B2D-392D-4B8B-9C5F-17EA7701E705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FE6B2D-392D-4B8B-9C5F-17EA7701E705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B28879E-FB5E-4A9E-8EDE-2A0F9B86C8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B28879E-FB5E-4A9E-8EDE-2A0F9B86C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B28879E-FB5E-4A9E-8EDE-2A0F9B86C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B28879E-FB5E-4A9E-8EDE-2A0F9B86C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96553B41-F0F6-4AC7-AFC0-1208452DF577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96553B41-F0F6-4AC7-AFC0-1208452DF577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96553B41-F0F6-4AC7-AFC0-1208452DF577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96553B41-F0F6-4AC7-AFC0-1208452DF577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C38DD4B-D7CD-48F1-A274-A82647AFFA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C38DD4B-D7CD-48F1-A274-A82647AFFA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C38DD4B-D7CD-48F1-A274-A82647AFFA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C38DD4B-D7CD-48F1-A274-A82647AFFA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADA442A-41B0-4B68-ACB3-10BA028D77CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADA442A-41B0-4B68-ACB3-10BA028D77CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADA442A-41B0-4B68-ACB3-10BA028D77CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADA442A-41B0-4B68-ACB3-10BA028D77CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
