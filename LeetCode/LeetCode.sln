@@ -263,15 +263,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1200. Minimum Absolute Diff
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "136. Single Number", "136. Single Number\136. Single Number.csproj", "{2871BBF6-689A-4DB8-A29D-7253FE99A9BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1920. Build Array from Permutation", "1920. Build Array from Permutation\1920. Build Array from Permutation.csproj", "{64FE6B2D-392D-4B8B-9C5F-17EA7701E705}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1920. Build Array from Permutation", "1920. Build Array from Permutation\1920. Build Array from Permutation.csproj", "{64FE6B2D-392D-4B8B-9C5F-17EA7701E705}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "824. Goat Latin", "824. Goat Latin\824. Goat Latin.csproj", "{7B28879E-FB5E-4A9E-8EDE-2A0F9B86C8EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "824. Goat Latin", "824. Goat Latin\824. Goat Latin.csproj", "{7B28879E-FB5E-4A9E-8EDE-2A0F9B86C8EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate", "1779. Find Nearest Point That Has the Same X or Y Coordinate\1779. Find Nearest Point That Has the Same X or Y Coordinate.csproj", "{96553B41-F0F6-4AC7-AFC0-1208452DF577}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate", "1779. Find Nearest Point That Has the Same X or Y Coordinate\1779. Find Nearest Point That Has the Same X or Y Coordinate.csproj", "{96553B41-F0F6-4AC7-AFC0-1208452DF577}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{0C38DD4B-D7CD-48F1-A274-A82647AFFA2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{0C38DD4B-D7CD-48F1-A274-A82647AFFA2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "637. Average of Levels in Binary Tree", "637. Average of Levels in Binary Tree\637. Average of Levels in Binary Tree.csproj", "{CADA442A-41B0-4B68-ACB3-10BA028D77CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "637. Average of Levels in Binary Tree", "637. Average of Levels in Binary Tree\637. Average of Levels in Binary Tree.csproj", "{CADA442A-41B0-4B68-ACB3-10BA028D77CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "496. Next Greater Element I", "496. Next Greater Element I\496. Next Greater Element I.csproj", "{8EBEC869-150B-4253-89E5-F274C3FD78B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1385. Find the Distance Value Between Two Arrays", "1385. Find the Distance Value Between Two Arrays\1385. Find the Distance Value Between Two Arrays.csproj", "{2BB50C83-C011-4DFA-8208-1BFDEE9B8A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "908. Smallest Range I", "908. Smallest Range I\908. Smallest Range I.csproj", "{93500148-86AF-4368-9E91-5ACA6E8FC32B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "500. Keyboard Row", "500. Keyboard Row\500. Keyboard Row.csproj", "{CF343238-564D-4F84-9C54-FDD0DE0F5D9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "349. Intersection of Two Arrays", "349. Intersection of Two Arrays\349. Intersection of Two Arrays.csproj", "{EE54D9EB-8E6A-489E-A412-925C01142CB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -825,6 +835,26 @@ Global
 		{CADA442A-41B0-4B68-ACB3-10BA028D77CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CADA442A-41B0-4B68-ACB3-10BA028D77CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CADA442A-41B0-4B68-ACB3-10BA028D77CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBEC869-150B-4253-89E5-F274C3FD78B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBEC869-150B-4253-89E5-F274C3FD78B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBEC869-150B-4253-89E5-F274C3FD78B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBEC869-150B-4253-89E5-F274C3FD78B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB50C83-C011-4DFA-8208-1BFDEE9B8A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB50C83-C011-4DFA-8208-1BFDEE9B8A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB50C83-C011-4DFA-8208-1BFDEE9B8A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB50C83-C011-4DFA-8208-1BFDEE9B8A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93500148-86AF-4368-9E91-5ACA6E8FC32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93500148-86AF-4368-9E91-5ACA6E8FC32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93500148-86AF-4368-9E91-5ACA6E8FC32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93500148-86AF-4368-9E91-5ACA6E8FC32B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF343238-564D-4F84-9C54-FDD0DE0F5D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF343238-564D-4F84-9C54-FDD0DE0F5D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF343238-564D-4F84-9C54-FDD0DE0F5D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF343238-564D-4F84-9C54-FDD0DE0F5D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE54D9EB-8E6A-489E-A412-925C01142CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE54D9EB-8E6A-489E-A412-925C01142CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE54D9EB-8E6A-489E-A412-925C01142CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE54D9EB-8E6A-489E-A412-925C01142CB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
