@@ -273,15 +273,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "206. Reverse Linked List", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "637. Average of Levels in Binary Tree", "637. Average of Levels in Binary Tree\637. Average of Levels in Binary Tree.csproj", "{CADA442A-41B0-4B68-ACB3-10BA028D77CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "496. Next Greater Element I", "496. Next Greater Element I\496. Next Greater Element I.csproj", "{8EBEC869-150B-4253-89E5-F274C3FD78B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "496. Next Greater Element I", "496. Next Greater Element I\496. Next Greater Element I.csproj", "{8EBEC869-150B-4253-89E5-F274C3FD78B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1385. Find the Distance Value Between Two Arrays", "1385. Find the Distance Value Between Two Arrays\1385. Find the Distance Value Between Two Arrays.csproj", "{2BB50C83-C011-4DFA-8208-1BFDEE9B8A02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1385. Find the Distance Value Between Two Arrays", "1385. Find the Distance Value Between Two Arrays\1385. Find the Distance Value Between Two Arrays.csproj", "{2BB50C83-C011-4DFA-8208-1BFDEE9B8A02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "908. Smallest Range I", "908. Smallest Range I\908. Smallest Range I.csproj", "{93500148-86AF-4368-9E91-5ACA6E8FC32B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "908. Smallest Range I", "908. Smallest Range I\908. Smallest Range I.csproj", "{93500148-86AF-4368-9E91-5ACA6E8FC32B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "500. Keyboard Row", "500. Keyboard Row\500. Keyboard Row.csproj", "{CF343238-564D-4F84-9C54-FDD0DE0F5D9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "500. Keyboard Row", "500. Keyboard Row\500. Keyboard Row.csproj", "{CF343238-564D-4F84-9C54-FDD0DE0F5D9E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "349. Intersection of Two Arrays", "349. Intersection of Two Arrays\349. Intersection of Two Arrays.csproj", "{EE54D9EB-8E6A-489E-A412-925C01142CB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "349. Intersection of Two Arrays", "349. Intersection of Two Arrays\349. Intersection of Two Arrays.csproj", "{EE54D9EB-8E6A-489E-A412-925C01142CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1025. Divisor Game", "1025. Divisor Game\1025. Divisor Game.csproj", "{D5C941FA-A5A6-466C-88E4-764C419EF6F1}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "182. Duplicate Emails", "182. Duplicate Emails\182. Duplicate Emails.sqlproj", "{BF60579C-E42D-4D06-A211-6705C2F9A3E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "766. Toeplitz Matrix", "766. Toeplitz Matrix\766. Toeplitz Matrix.csproj", "{7492E779-CCA6-4E17-AA6E-E57D19B5F7EF}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "175. Combine Two Tables", "175. Combine Two Tables\175. Combine Two Tables.sqlproj", "{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "806. Number of Lines To Write String", "806. Number of Lines To Write String\806. Number of Lines To Write String.csproj", "{6685702E-6D18-447A-9C31-0CEC23B33F38}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -855,6 +865,30 @@ Global
 		{EE54D9EB-8E6A-489E-A412-925C01142CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE54D9EB-8E6A-489E-A412-925C01142CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE54D9EB-8E6A-489E-A412-925C01142CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C941FA-A5A6-466C-88E4-764C419EF6F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C941FA-A5A6-466C-88E4-764C419EF6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C941FA-A5A6-466C-88E4-764C419EF6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C941FA-A5A6-466C-88E4-764C419EF6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF60579C-E42D-4D06-A211-6705C2F9A3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF60579C-E42D-4D06-A211-6705C2F9A3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF60579C-E42D-4D06-A211-6705C2F9A3E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BF60579C-E42D-4D06-A211-6705C2F9A3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF60579C-E42D-4D06-A211-6705C2F9A3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF60579C-E42D-4D06-A211-6705C2F9A3E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7492E779-CCA6-4E17-AA6E-E57D19B5F7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7492E779-CCA6-4E17-AA6E-E57D19B5F7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7492E779-CCA6-4E17-AA6E-E57D19B5F7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7492E779-CCA6-4E17-AA6E-E57D19B5F7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6685702E-6D18-447A-9C31-0CEC23B33F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6685702E-6D18-447A-9C31-0CEC23B33F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6685702E-6D18-447A-9C31-0CEC23B33F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6685702E-6D18-447A-9C31-0CEC23B33F38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
