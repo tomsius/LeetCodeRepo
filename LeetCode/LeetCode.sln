@@ -283,15 +283,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "500. Keyboard Row", "500. K
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "349. Intersection of Two Arrays", "349. Intersection of Two Arrays\349. Intersection of Two Arrays.csproj", "{EE54D9EB-8E6A-489E-A412-925C01142CB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1025. Divisor Game", "1025. Divisor Game\1025. Divisor Game.csproj", "{D5C941FA-A5A6-466C-88E4-764C419EF6F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1025. Divisor Game", "1025. Divisor Game\1025. Divisor Game.csproj", "{D5C941FA-A5A6-466C-88E4-764C419EF6F1}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "182. Duplicate Emails", "182. Duplicate Emails\182. Duplicate Emails.sqlproj", "{BF60579C-E42D-4D06-A211-6705C2F9A3E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "766. Toeplitz Matrix", "766. Toeplitz Matrix\766. Toeplitz Matrix.csproj", "{7492E779-CCA6-4E17-AA6E-E57D19B5F7EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "766. Toeplitz Matrix", "766. Toeplitz Matrix\766. Toeplitz Matrix.csproj", "{7492E779-CCA6-4E17-AA6E-E57D19B5F7EF}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "175. Combine Two Tables", "175. Combine Two Tables\175. Combine Two Tables.sqlproj", "{ED61ED70-EC7A-41FF-ABF2-A646C6D8BE92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "806. Number of Lines To Write String", "806. Number of Lines To Write String\806. Number of Lines To Write String.csproj", "{6685702E-6D18-447A-9C31-0CEC23B33F38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "806. Number of Lines To Write String", "806. Number of Lines To Write String\806. Number of Lines To Write String.csproj", "{6685702E-6D18-447A-9C31-0CEC23B33F38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1413. Minimum Value to Get Positive Step by Step Sum", "1413. Minimum Value to Get Positive Step by Step Sum\1413. Minimum Value to Get Positive Step by Step Sum.csproj", "{05AA5709-DD02-49D0-8720-55C66C8248CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1399. Count Largest Group", "1399. Count Largest Group\1399. Count Largest Group.csproj", "{0DD78F69-AD78-48F3-AEBA-F83A05975CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "476. Number Complement", "476. Number Complement\476. Number Complement.csproj", "{6E35E5C3-6A1A-4B66-9D34-1088F6408948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "762. Prime Number of Set Bits in Binary Representation", "762. Prime Number of Set Bits in Binary Representation\762. Prime Number of Set Bits in Binary Representation.csproj", "{1742AD7E-726E-4C06-82BB-EEC8B68712DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1694. Reformat Phone Number", "1694. Reformat Phone Number\1694. Reformat Phone Number.csproj", "{D47C8D50-6685-465D-8931-99B6AC951DC7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -889,6 +899,26 @@ Global
 		{6685702E-6D18-447A-9C31-0CEC23B33F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6685702E-6D18-447A-9C31-0CEC23B33F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6685702E-6D18-447A-9C31-0CEC23B33F38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05AA5709-DD02-49D0-8720-55C66C8248CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AA5709-DD02-49D0-8720-55C66C8248CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AA5709-DD02-49D0-8720-55C66C8248CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AA5709-DD02-49D0-8720-55C66C8248CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD78F69-AD78-48F3-AEBA-F83A05975CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD78F69-AD78-48F3-AEBA-F83A05975CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD78F69-AD78-48F3-AEBA-F83A05975CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD78F69-AD78-48F3-AEBA-F83A05975CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E35E5C3-6A1A-4B66-9D34-1088F6408948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E35E5C3-6A1A-4B66-9D34-1088F6408948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E35E5C3-6A1A-4B66-9D34-1088F6408948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E35E5C3-6A1A-4B66-9D34-1088F6408948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1742AD7E-726E-4C06-82BB-EEC8B68712DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1742AD7E-726E-4C06-82BB-EEC8B68712DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1742AD7E-726E-4C06-82BB-EEC8B68712DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1742AD7E-726E-4C06-82BB-EEC8B68712DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D47C8D50-6685-465D-8931-99B6AC951DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D47C8D50-6685-465D-8931-99B6AC951DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D47C8D50-6685-465D-8931-99B6AC951DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D47C8D50-6685-465D-8931-99B6AC951DC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
