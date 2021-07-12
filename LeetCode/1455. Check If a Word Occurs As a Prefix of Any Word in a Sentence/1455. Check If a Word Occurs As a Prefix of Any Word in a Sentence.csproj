@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1455._Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -293,15 +293,25 @@ Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "175. Combine Two Tables", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "806. Number of Lines To Write String", "806. Number of Lines To Write String\806. Number of Lines To Write String.csproj", "{6685702E-6D18-447A-9C31-0CEC23B33F38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1413. Minimum Value to Get Positive Step by Step Sum", "1413. Minimum Value to Get Positive Step by Step Sum\1413. Minimum Value to Get Positive Step by Step Sum.csproj", "{05AA5709-DD02-49D0-8720-55C66C8248CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1413. Minimum Value to Get Positive Step by Step Sum", "1413. Minimum Value to Get Positive Step by Step Sum\1413. Minimum Value to Get Positive Step by Step Sum.csproj", "{05AA5709-DD02-49D0-8720-55C66C8248CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1399. Count Largest Group", "1399. Count Largest Group\1399. Count Largest Group.csproj", "{0DD78F69-AD78-48F3-AEBA-F83A05975CA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1399. Count Largest Group", "1399. Count Largest Group\1399. Count Largest Group.csproj", "{0DD78F69-AD78-48F3-AEBA-F83A05975CA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "476. Number Complement", "476. Number Complement\476. Number Complement.csproj", "{6E35E5C3-6A1A-4B66-9D34-1088F6408948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "476. Number Complement", "476. Number Complement\476. Number Complement.csproj", "{6E35E5C3-6A1A-4B66-9D34-1088F6408948}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "762. Prime Number of Set Bits in Binary Representation", "762. Prime Number of Set Bits in Binary Representation\762. Prime Number of Set Bits in Binary Representation.csproj", "{1742AD7E-726E-4C06-82BB-EEC8B68712DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "762. Prime Number of Set Bits in Binary Representation", "762. Prime Number of Set Bits in Binary Representation\762. Prime Number of Set Bits in Binary Representation.csproj", "{1742AD7E-726E-4C06-82BB-EEC8B68712DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1694. Reformat Phone Number", "1694. Reformat Phone Number\1694. Reformat Phone Number.csproj", "{D47C8D50-6685-465D-8931-99B6AC951DC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1694. Reformat Phone Number", "1694. Reformat Phone Number\1694. Reformat Phone Number.csproj", "{D47C8D50-6685-465D-8931-99B6AC951DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1929. Concatenation of Array", "1929. Concatenation of Array\1929. Concatenation of Array.csproj", "{6AFF28C4-6640-437E-B70E-2879007067FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822. Sign of the Product of an Array", "1822. Sign of the Product of an Array\1822. Sign of the Product of an Array.csproj", "{0F0BC981-3CCD-4B9D-AA65-7E945858D3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1078. Occurrences After Bigram", "1078. Occurrences After Bigram\1078. Occurrences After Bigram.csproj", "{3C4E1BB8-1A3C-48AD-BE03-87A2F37349CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "575. Distribute Candies", "575. Distribute Candies\575. Distribute Candies.csproj", "{5953B726-AC00-42B4-BD9A-296A38830A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence", "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence\1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.csproj", "{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -919,6 +929,26 @@ Global
 		{D47C8D50-6685-465D-8931-99B6AC951DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D47C8D50-6685-465D-8931-99B6AC951DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D47C8D50-6685-465D-8931-99B6AC951DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFF28C4-6640-437E-B70E-2879007067FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFF28C4-6640-437E-B70E-2879007067FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFF28C4-6640-437E-B70E-2879007067FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFF28C4-6640-437E-B70E-2879007067FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0BC981-3CCD-4B9D-AA65-7E945858D3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0BC981-3CCD-4B9D-AA65-7E945858D3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0BC981-3CCD-4B9D-AA65-7E945858D3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0BC981-3CCD-4B9D-AA65-7E945858D3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C4E1BB8-1A3C-48AD-BE03-87A2F37349CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4E1BB8-1A3C-48AD-BE03-87A2F37349CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4E1BB8-1A3C-48AD-BE03-87A2F37349CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4E1BB8-1A3C-48AD-BE03-87A2F37349CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5953B726-AC00-42B4-BD9A-296A38830A6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5953B726-AC00-42B4-BD9A-296A38830A6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5953B726-AC00-42B4-BD9A-296A38830A6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5953B726-AC00-42B4-BD9A-296A38830A6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
