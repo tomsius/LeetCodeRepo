@@ -303,15 +303,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "762. Prime Number of Set Bi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1694. Reformat Phone Number", "1694. Reformat Phone Number\1694. Reformat Phone Number.csproj", "{D47C8D50-6685-465D-8931-99B6AC951DC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1929. Concatenation of Array", "1929. Concatenation of Array\1929. Concatenation of Array.csproj", "{6AFF28C4-6640-437E-B70E-2879007067FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1929. Concatenation of Array", "1929. Concatenation of Array\1929. Concatenation of Array.csproj", "{6AFF28C4-6640-437E-B70E-2879007067FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822. Sign of the Product of an Array", "1822. Sign of the Product of an Array\1822. Sign of the Product of an Array.csproj", "{0F0BC981-3CCD-4B9D-AA65-7E945858D3D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1822. Sign of the Product of an Array", "1822. Sign of the Product of an Array\1822. Sign of the Product of an Array.csproj", "{0F0BC981-3CCD-4B9D-AA65-7E945858D3D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1078. Occurrences After Bigram", "1078. Occurrences After Bigram\1078. Occurrences After Bigram.csproj", "{3C4E1BB8-1A3C-48AD-BE03-87A2F37349CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1078. Occurrences After Bigram", "1078. Occurrences After Bigram\1078. Occurrences After Bigram.csproj", "{3C4E1BB8-1A3C-48AD-BE03-87A2F37349CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "575. Distribute Candies", "575. Distribute Candies\575. Distribute Candies.csproj", "{5953B726-AC00-42B4-BD9A-296A38830A6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "575. Distribute Candies", "575. Distribute Candies\575. Distribute Candies.csproj", "{5953B726-AC00-42B4-BD9A-296A38830A6F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence", "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence\1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.csproj", "{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence", "1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence\1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence.csproj", "{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1619. Mean of Array After Removing Some Elements", "1619. Mean of Array After Removing Some Elements\1619. Mean of Array After Removing Some Elements.csproj", "{1A0B6CAF-7466-47E1-B2A8-8ED92D2A1556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "872. Leaf-Similar Trees", "872. Leaf-Similar Trees\872. Leaf-Similar Trees.csproj", "{1179DD65-2227-45E5-A7CB-3BD2CE7EF91A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "884. Uncommon Words from Two Sentences", "884. Uncommon Words from Two Sentences\884. Uncommon Words from Two Sentences.csproj", "{60800DE5-1B2E-4024-A409-A82E11A30F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "412. Fizz Buzz", "412. Fizz Buzz\412. Fizz Buzz.csproj", "{FAF2F386-AC73-497F-B1E1-FE58C721E954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1800. Maximum Ascending Subarray Sum", "1800. Maximum Ascending Subarray Sum\1800. Maximum Ascending Subarray Sum.csproj", "{D8F22956-5DA0-4F98-8699-149F65C2CE12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -949,6 +959,26 @@ Global
 		{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B7B51B7-B08E-4CAE-B25E-8D4361AC4A00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0B6CAF-7466-47E1-B2A8-8ED92D2A1556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0B6CAF-7466-47E1-B2A8-8ED92D2A1556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0B6CAF-7466-47E1-B2A8-8ED92D2A1556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0B6CAF-7466-47E1-B2A8-8ED92D2A1556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1179DD65-2227-45E5-A7CB-3BD2CE7EF91A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1179DD65-2227-45E5-A7CB-3BD2CE7EF91A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1179DD65-2227-45E5-A7CB-3BD2CE7EF91A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1179DD65-2227-45E5-A7CB-3BD2CE7EF91A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60800DE5-1B2E-4024-A409-A82E11A30F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60800DE5-1B2E-4024-A409-A82E11A30F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60800DE5-1B2E-4024-A409-A82E11A30F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60800DE5-1B2E-4024-A409-A82E11A30F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF2F386-AC73-497F-B1E1-FE58C721E954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF2F386-AC73-497F-B1E1-FE58C721E954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF2F386-AC73-497F-B1E1-FE58C721E954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF2F386-AC73-497F-B1E1-FE58C721E954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8F22956-5DA0-4F98-8699-149F65C2CE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F22956-5DA0-4F98-8699-149F65C2CE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F22956-5DA0-4F98-8699-149F65C2CE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F22956-5DA0-4F98-8699-149F65C2CE12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
