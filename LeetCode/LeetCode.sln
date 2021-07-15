@@ -323,15 +323,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "412. Fizz Buzz", "412. Fizz
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1800. Maximum Ascending Subarray Sum", "1800. Maximum Ascending Subarray Sum\1800. Maximum Ascending Subarray Sum.csproj", "{D8F22956-5DA0-4F98-8699-149F65C2CE12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1582. Special Positions in a Binary Matrix", "1582. Special Positions in a Binary Matrix\1582. Special Positions in a Binary Matrix.csproj", "{F594662D-710D-4604-96A1-E5791CD7D4D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1582. Special Positions in a Binary Matrix", "1582. Special Positions in a Binary Matrix\1582. Special Positions in a Binary Matrix.csproj", "{F594662D-710D-4604-96A1-E5791CD7D4D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1716. Calculate Money in Leetcode Bank", "1716. Calculate Money in Leetcode Bank\1716. Calculate Money in Leetcode Bank.csproj", "{25E842AF-FEF4-42B8-8F29-CF25A4D24540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1716. Calculate Money in Leetcode Bank", "1716. Calculate Money in Leetcode Bank\1716. Calculate Money in Leetcode Bank.csproj", "{25E842AF-FEF4-42B8-8F29-CF25A4D24540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1550. Three Consecutive Odds", "1550. Three Consecutive Odds\1550. Three Consecutive Odds.csproj", "{A6342A31-F3C8-476D-8995-119AF90F9070}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1550. Three Consecutive Odds", "1550. Three Consecutive Odds\1550. Three Consecutive Odds.csproj", "{A6342A31-F3C8-476D-8995-119AF90F9070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "705. Design HashSet", "705. Design HashSet\705. Design HashSet.csproj", "{E57F5EF6-CD41-41B1-A747-B2D06DC335AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "705. Design HashSet", "705. Design HashSet\705. Design HashSet.csproj", "{E57F5EF6-CD41-41B1-A747-B2D06DC335AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "706. Design HashMap", "706. Design HashMap\706. Design HashMap.csproj", "{480BB498-DE62-472A-8A61-2F5A9EEFD844}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "706. Design HashMap", "706. Design HashMap\706. Design HashMap.csproj", "{480BB498-DE62-472A-8A61-2F5A9EEFD844}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1598. Crawler Log Folder", "1598. Crawler Log Folder\1598. Crawler Log Folder.csproj", "{33A6312E-BC41-40CE-8EEF-90C82768A28B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1408. String Matching in an Array", "1408. String Matching in an Array\1408. String Matching in an Array.csproj", "{B14123EF-7A31-4C9B-AB15-771E39FCE99B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1103. Distribute Candies to People", "1103. Distribute Candies to People\1103. Distribute Candies to People.csproj", "{514F58F0-EEBD-40CD-858A-6E4331471A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1394. Find Lucky Integer in an Array", "1394. Find Lucky Integer in an Array\1394. Find Lucky Integer in an Array.csproj", "{3F9CDA1A-B2B0-4851-B490-CFB537CC98F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1925. Count Square Sum Triples", "1925. Count Square Sum Triples\1925. Count Square Sum Triples.csproj", "{F0E31720-5924-46EF-A2A7-1A65CE429902}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1009,6 +1019,26 @@ Global
 		{480BB498-DE62-472A-8A61-2F5A9EEFD844}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480BB498-DE62-472A-8A61-2F5A9EEFD844}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480BB498-DE62-472A-8A61-2F5A9EEFD844}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A6312E-BC41-40CE-8EEF-90C82768A28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A6312E-BC41-40CE-8EEF-90C82768A28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A6312E-BC41-40CE-8EEF-90C82768A28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A6312E-BC41-40CE-8EEF-90C82768A28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14123EF-7A31-4C9B-AB15-771E39FCE99B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14123EF-7A31-4C9B-AB15-771E39FCE99B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14123EF-7A31-4C9B-AB15-771E39FCE99B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14123EF-7A31-4C9B-AB15-771E39FCE99B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514F58F0-EEBD-40CD-858A-6E4331471A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514F58F0-EEBD-40CD-858A-6E4331471A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514F58F0-EEBD-40CD-858A-6E4331471A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514F58F0-EEBD-40CD-858A-6E4331471A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9CDA1A-B2B0-4851-B490-CFB537CC98F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9CDA1A-B2B0-4851-B490-CFB537CC98F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9CDA1A-B2B0-4851-B490-CFB537CC98F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9CDA1A-B2B0-4851-B490-CFB537CC98F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0E31720-5924-46EF-A2A7-1A65CE429902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0E31720-5924-46EF-A2A7-1A65CE429902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0E31720-5924-46EF-A2A7-1A65CE429902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0E31720-5924-46EF-A2A7-1A65CE429902}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
