@@ -353,15 +353,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1189. Maximum Number of Bal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "566. Reshape the Matrix", "566. Reshape the Matrix\566. Reshape the Matrix.csproj", "{2CFFA0A3-B395-4661-8011-73B5855E912C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1935. Maximum Number of Words You Can Type", "1935. Maximum Number of Words You Can Type\1935. Maximum Number of Words You Can Type.csproj", "{0F6F3E6B-96EA-460B-A01B-9BF84BC111A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1935. Maximum Number of Words You Can Type", "1935. Maximum Number of Words You Can Type\1935. Maximum Number of Words You Can Type.csproj", "{0F6F3E6B-96EA-460B-A01B-9BF84BC111A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1260. Shift 2D Grid", "1260. Shift 2D Grid\1260. Shift 2D Grid.csproj", "{5B16B6E7-F01A-4E74-B476-00D601A0F455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1260. Shift 2D Grid", "1260. Shift 2D Grid\1260. Shift 2D Grid.csproj", "{5B16B6E7-F01A-4E74-B476-00D601A0F455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "867. Transpose Matrix", "867. Transpose Matrix\867. Transpose Matrix.csproj", "{649C803C-0A55-4761-8638-05CB535861EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "867. Transpose Matrix", "867. Transpose Matrix\867. Transpose Matrix.csproj", "{649C803C-0A55-4761-8638-05CB535861EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "696. Count Binary Substrings", "696. Count Binary Substrings\696. Count Binary Substrings.csproj", "{5853A1EA-4150-4AA3-A135-14CD2397B936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "696. Count Binary Substrings", "696. Count Binary Substrings\696. Count Binary Substrings.csproj", "{5853A1EA-4150-4AA3-A135-14CD2397B936}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1608. Special Array With X Elements Greater Than or Equal X", "1608. Special Array With X Elements Greater Than or Equal X\1608. Special Array With X Elements Greater Than or Equal X.csproj", "{8404F8AB-2950-46FB-9DAE-958062B05127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1608. Special Array With X Elements Greater Than or Equal X", "1608. Special Array With X Elements Greater Than or Equal X\1608. Special Array With X Elements Greater Than or Equal X.csproj", "{8404F8AB-2950-46FB-9DAE-958062B05127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1763. Longest Nice Substring", "1763. Longest Nice Substring\1763. Longest Nice Substring.csproj", "{AC92F5EC-6C25-402F-9B93-4298EB48E5AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "868. Binary Gap", "868. Binary Gap\868. Binary Gap.csproj", "{ED0BD195-C835-4857-98C1-D37C48937B9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009. Complement of Base 10 Integer", "1009. Complement of Base 10 Integer\1009. Complement of Base 10 Integer.csproj", "{008E2122-D3BA-47D0-A93C-5FE230F457EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1446. Consecutive Characters", "1446. Consecutive Characters\1446. Consecutive Characters.csproj", "{FC1B0156-CA9D-4FEE-BD06-A1B8DFDCAF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1437. Check If All 1's Are at Least Length K Places Away", "1437. Check If All 1's Are at Least Length K Places Away\1437. Check If All 1's Are at Least Length K Places Away.csproj", "{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1101,6 +1111,26 @@ Global
 		{8404F8AB-2950-46FB-9DAE-958062B05127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8404F8AB-2950-46FB-9DAE-958062B05127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8404F8AB-2950-46FB-9DAE-958062B05127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC92F5EC-6C25-402F-9B93-4298EB48E5AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC92F5EC-6C25-402F-9B93-4298EB48E5AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC92F5EC-6C25-402F-9B93-4298EB48E5AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC92F5EC-6C25-402F-9B93-4298EB48E5AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0BD195-C835-4857-98C1-D37C48937B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0BD195-C835-4857-98C1-D37C48937B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0BD195-C835-4857-98C1-D37C48937B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0BD195-C835-4857-98C1-D37C48937B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008E2122-D3BA-47D0-A93C-5FE230F457EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008E2122-D3BA-47D0-A93C-5FE230F457EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008E2122-D3BA-47D0-A93C-5FE230F457EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008E2122-D3BA-47D0-A93C-5FE230F457EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1B0156-CA9D-4FEE-BD06-A1B8DFDCAF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1B0156-CA9D-4FEE-BD06-A1B8DFDCAF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1B0156-CA9D-4FEE-BD06-A1B8DFDCAF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1B0156-CA9D-4FEE-BD06-A1B8DFDCAF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
