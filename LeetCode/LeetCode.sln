@@ -363,15 +363,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "696. Count Binary Substring
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1608. Special Array With X Elements Greater Than or Equal X", "1608. Special Array With X Elements Greater Than or Equal X\1608. Special Array With X Elements Greater Than or Equal X.csproj", "{8404F8AB-2950-46FB-9DAE-958062B05127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1763. Longest Nice Substring", "1763. Longest Nice Substring\1763. Longest Nice Substring.csproj", "{AC92F5EC-6C25-402F-9B93-4298EB48E5AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1763. Longest Nice Substring", "1763. Longest Nice Substring\1763. Longest Nice Substring.csproj", "{AC92F5EC-6C25-402F-9B93-4298EB48E5AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "868. Binary Gap", "868. Binary Gap\868. Binary Gap.csproj", "{ED0BD195-C835-4857-98C1-D37C48937B9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "868. Binary Gap", "868. Binary Gap\868. Binary Gap.csproj", "{ED0BD195-C835-4857-98C1-D37C48937B9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009. Complement of Base 10 Integer", "1009. Complement of Base 10 Integer\1009. Complement of Base 10 Integer.csproj", "{008E2122-D3BA-47D0-A93C-5FE230F457EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1009. Complement of Base 10 Integer", "1009. Complement of Base 10 Integer\1009. Complement of Base 10 Integer.csproj", "{008E2122-D3BA-47D0-A93C-5FE230F457EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1446. Consecutive Characters", "1446. Consecutive Characters\1446. Consecutive Characters.csproj", "{FC1B0156-CA9D-4FEE-BD06-A1B8DFDCAF85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1446. Consecutive Characters", "1446. Consecutive Characters\1446. Consecutive Characters.csproj", "{FC1B0156-CA9D-4FEE-BD06-A1B8DFDCAF85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1437. Check If All 1's Are at Least Length K Places Away", "1437. Check If All 1's Are at Least Length K Places Away\1437. Check If All 1's Are at Least Length K Places Away.csproj", "{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1437. Check If All 1's Are at Least Length K Places Away", "1437. Check If All 1's Are at Least Length K Places Away\1437. Check If All 1's Are at Least Length K Places Away.csproj", "{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169. Majority Element", "169. Majority Element\169. Majority Element.csproj", "{15DBF495-B7BF-469B-A1E6-475ADD05DA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1652. Defuse the Bomb", "1652. Defuse the Bomb\1652. Defuse the Bomb.csproj", "{86390791-5DEF-4DBF-8806-3876D5475395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "985. Sum of Even Numbers After Queries", "985. Sum of Even Numbers After Queries\985. Sum of Even Numbers After Queries.csproj", "{63CC3DF1-8B3C-46A0-8B9E-EFBD4C54DAC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1507. Reformat Date", "1507. Reformat Date\1507. Reformat Date.csproj", "{0F8AD917-5A71-4D51-A013-AF5AFFA3A48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "892. Surface Area of 3D Shapes", "892. Surface Area of 3D Shapes\892. Surface Area of 3D Shapes.csproj", "{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1131,6 +1141,26 @@ Global
 		{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15DBF495-B7BF-469B-A1E6-475ADD05DA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15DBF495-B7BF-469B-A1E6-475ADD05DA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15DBF495-B7BF-469B-A1E6-475ADD05DA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15DBF495-B7BF-469B-A1E6-475ADD05DA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86390791-5DEF-4DBF-8806-3876D5475395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86390791-5DEF-4DBF-8806-3876D5475395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86390791-5DEF-4DBF-8806-3876D5475395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86390791-5DEF-4DBF-8806-3876D5475395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CC3DF1-8B3C-46A0-8B9E-EFBD4C54DAC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CC3DF1-8B3C-46A0-8B9E-EFBD4C54DAC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CC3DF1-8B3C-46A0-8B9E-EFBD4C54DAC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CC3DF1-8B3C-46A0-8B9E-EFBD4C54DAC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8AD917-5A71-4D51-A013-AF5AFFA3A48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8AD917-5A71-4D51-A013-AF5AFFA3A48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8AD917-5A71-4D51-A013-AF5AFFA3A48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8AD917-5A71-4D51-A013-AF5AFFA3A48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

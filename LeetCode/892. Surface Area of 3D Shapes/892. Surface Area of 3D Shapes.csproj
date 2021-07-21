@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_892._Surface_Area_of_3D_Shapes</RootNamespace>
+  </PropertyGroup>
+
+</Project>
