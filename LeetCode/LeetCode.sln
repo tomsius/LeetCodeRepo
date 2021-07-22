@@ -373,15 +373,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1446. Consecutive Character
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1437. Check If All 1's Are at Least Length K Places Away", "1437. Check If All 1's Are at Least Length K Places Away\1437. Check If All 1's Are at Least Length K Places Away.csproj", "{0B3D5945-B9FA-4BA4-9F98-B045C824BC0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "169. Majority Element", "169. Majority Element\169. Majority Element.csproj", "{15DBF495-B7BF-469B-A1E6-475ADD05DA30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "169. Majority Element", "169. Majority Element\169. Majority Element.csproj", "{15DBF495-B7BF-469B-A1E6-475ADD05DA30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1652. Defuse the Bomb", "1652. Defuse the Bomb\1652. Defuse the Bomb.csproj", "{86390791-5DEF-4DBF-8806-3876D5475395}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1652. Defuse the Bomb", "1652. Defuse the Bomb\1652. Defuse the Bomb.csproj", "{86390791-5DEF-4DBF-8806-3876D5475395}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "985. Sum of Even Numbers After Queries", "985. Sum of Even Numbers After Queries\985. Sum of Even Numbers After Queries.csproj", "{63CC3DF1-8B3C-46A0-8B9E-EFBD4C54DAC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "985. Sum of Even Numbers After Queries", "985. Sum of Even Numbers After Queries\985. Sum of Even Numbers After Queries.csproj", "{63CC3DF1-8B3C-46A0-8B9E-EFBD4C54DAC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1507. Reformat Date", "1507. Reformat Date\1507. Reformat Date.csproj", "{0F8AD917-5A71-4D51-A013-AF5AFFA3A48E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1507. Reformat Date", "1507. Reformat Date\1507. Reformat Date.csproj", "{0F8AD917-5A71-4D51-A013-AF5AFFA3A48E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "892. Surface Area of 3D Shapes", "892. Surface Area of 3D Shapes\892. Surface Area of 3D Shapes.csproj", "{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "892. Surface Area of 3D Shapes", "892. Surface Area of 3D Shapes\892. Surface Area of 3D Shapes.csproj", "{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "690. Employee Importance", "690. Employee Importance\690. Employee Importance.csproj", "{FA133672-D7F8-4CE2-A879-CA2CC9ACB745}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "693. Binary Number with Alternating Bits", "693. Binary Number with Alternating Bits\693. Binary Number with Alternating Bits.csproj", "{C9FCE4ED-DA44-43C6-A397-4CEC38E3A34B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1518. Water Bottles", "1518. Water Bottles\1518. Water Bottles.csproj", "{376CD754-2149-4AFB-BB0A-A956D1E62328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1848. Minimum Distance to the Target Element", "1848. Minimum Distance to the Target Element\1848. Minimum Distance to the Target Element.csproj", "{19EA5540-FDAF-4DDB-AD82-C159FEF05601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1185. Day of the Week", "1185. Day of the Week\1185. Day of the Week.csproj", "{23433BF5-25F9-4A56-AFBA-04C784043073}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1161,6 +1171,26 @@ Global
 		{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C23B90-12FF-4FAD-83EF-CC321D4ED0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA133672-D7F8-4CE2-A879-CA2CC9ACB745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA133672-D7F8-4CE2-A879-CA2CC9ACB745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA133672-D7F8-4CE2-A879-CA2CC9ACB745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA133672-D7F8-4CE2-A879-CA2CC9ACB745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9FCE4ED-DA44-43C6-A397-4CEC38E3A34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9FCE4ED-DA44-43C6-A397-4CEC38E3A34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9FCE4ED-DA44-43C6-A397-4CEC38E3A34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9FCE4ED-DA44-43C6-A397-4CEC38E3A34B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376CD754-2149-4AFB-BB0A-A956D1E62328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376CD754-2149-4AFB-BB0A-A956D1E62328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376CD754-2149-4AFB-BB0A-A956D1E62328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376CD754-2149-4AFB-BB0A-A956D1E62328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19EA5540-FDAF-4DDB-AD82-C159FEF05601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19EA5540-FDAF-4DDB-AD82-C159FEF05601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19EA5540-FDAF-4DDB-AD82-C159FEF05601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19EA5540-FDAF-4DDB-AD82-C159FEF05601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23433BF5-25F9-4A56-AFBA-04C784043073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23433BF5-25F9-4A56-AFBA-04C784043073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23433BF5-25F9-4A56-AFBA-04C784043073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23433BF5-25F9-4A56-AFBA-04C784043073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
