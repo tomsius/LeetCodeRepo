@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_1287._Element_Appearing_More_Than_25_Percent_In_Sorted_Array</RootNamespace>
+  </PropertyGroup>
+
+</Project>
