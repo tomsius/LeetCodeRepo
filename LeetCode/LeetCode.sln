@@ -413,15 +413,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "242. Valid Anagram", "242. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "888. Fair Candy Swap", "888. Fair Candy Swap\888. Fair Candy Swap.csproj", "{4414E777-B548-44DE-BAB6-DC3764820FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1869. Longer Contiguous Segments of Ones than Zeros", "1869. Longer Contiguous Segments of Ones than Zeros\1869. Longer Contiguous Segments of Ones than Zeros.csproj", "{E1257201-392B-486B-BC95-D36960881971}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1869. Longer Contiguous Segments of Ones than Zeros", "1869. Longer Contiguous Segments of Ones than Zeros\1869. Longer Contiguous Segments of Ones than Zeros.csproj", "{E1257201-392B-486B-BC95-D36960881971}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "812. Largest Triangle Area", "812. Largest Triangle Area\812. Largest Triangle Area.csproj", "{E8A265EF-416A-4D56-BA53-E01284561DBE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "812. Largest Triangle Area", "812. Largest Triangle Area\812. Largest Triangle Area.csproj", "{E8A265EF-416A-4D56-BA53-E01284561DBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1897. Redistribute Characters to Make All Strings Equal", "1897. Redistribute Characters to Make All Strings Equal\1897. Redistribute Characters to Make All Strings Equal.csproj", "{01993EDC-5755-4221-B524-D81B7931499F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1897. Redistribute Characters to Make All Strings Equal", "1897. Redistribute Characters to Make All Strings Equal\1897. Redistribute Characters to Make All Strings Equal.csproj", "{01993EDC-5755-4221-B524-D81B7931499F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "258. Add Digits", "258. Add Digits\258. Add Digits.csproj", "{7DD1094F-79C7-4957-81B6-9AB2A5AB5EE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "258. Add Digits", "258. Add Digits\258. Add Digits.csproj", "{7DD1094F-79C7-4957-81B6-9AB2A5AB5EE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "521. Longest Uncommon Subsequence I", "521. Longest Uncommon Subsequence I\521. Longest Uncommon Subsequence I.csproj", "{366B7AD3-0D28-44D8-BD41-4DEB7195A477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "521. Longest Uncommon Subsequence I", "521. Longest Uncommon Subsequence I\521. Longest Uncommon Subsequence I.csproj", "{366B7AD3-0D28-44D8-BD41-4DEB7195A477}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "183. Customers Who Never Order", "183. Customers Who Never Order\183. Customers Who Never Order.sqlproj", "{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "144. Binary Tree Preorder Traversal", "144. Binary Tree Preorder Traversal\144. Binary Tree Preorder Traversal.csproj", "{2E6BF24B-B7FF-47FD-93B0-CF79EF3B7B49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1629. Slowest Key", "1629. Slowest Key\1629. Slowest Key.csproj", "{45B97169-F1D0-49B6-938B-3FC4B8751DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.csproj", "{657DB935-A4A7-4865-98BE-4F7FEDC1EA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1624. Largest Substring Between Two Equal Characters", "1624. Largest Substring Between Two Equal Characters\1624. Largest Substring Between Two Equal Characters.csproj", "{E4EEB035-B00C-40F1-B73F-DAE0494223AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1281,6 +1291,28 @@ Global
 		{366B7AD3-0D28-44D8-BD41-4DEB7195A477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{366B7AD3-0D28-44D8-BD41-4DEB7195A477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{366B7AD3-0D28-44D8-BD41-4DEB7195A477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2E6BF24B-B7FF-47FD-93B0-CF79EF3B7B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6BF24B-B7FF-47FD-93B0-CF79EF3B7B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6BF24B-B7FF-47FD-93B0-CF79EF3B7B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6BF24B-B7FF-47FD-93B0-CF79EF3B7B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45B97169-F1D0-49B6-938B-3FC4B8751DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B97169-F1D0-49B6-938B-3FC4B8751DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B97169-F1D0-49B6-938B-3FC4B8751DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B97169-F1D0-49B6-938B-3FC4B8751DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657DB935-A4A7-4865-98BE-4F7FEDC1EA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657DB935-A4A7-4865-98BE-4F7FEDC1EA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657DB935-A4A7-4865-98BE-4F7FEDC1EA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657DB935-A4A7-4865-98BE-4F7FEDC1EA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4EEB035-B00C-40F1-B73F-DAE0494223AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EEB035-B00C-40F1-B73F-DAE0494223AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EEB035-B00C-40F1-B73F-DAE0494223AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EEB035-B00C-40F1-B73F-DAE0494223AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
