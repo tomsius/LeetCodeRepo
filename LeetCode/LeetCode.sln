@@ -425,13 +425,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "521. Longest Uncommon Subse
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "183. Customers Who Never Order", "183. Customers Who Never Order\183. Customers Who Never Order.sqlproj", "{5934F87E-C50E-4641-B5F4-F3E070CF7FA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "144. Binary Tree Preorder Traversal", "144. Binary Tree Preorder Traversal\144. Binary Tree Preorder Traversal.csproj", "{2E6BF24B-B7FF-47FD-93B0-CF79EF3B7B49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "144. Binary Tree Preorder Traversal", "144. Binary Tree Preorder Traversal\144. Binary Tree Preorder Traversal.csproj", "{2E6BF24B-B7FF-47FD-93B0-CF79EF3B7B49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1629. Slowest Key", "1629. Slowest Key\1629. Slowest Key.csproj", "{45B97169-F1D0-49B6-938B-3FC4B8751DC0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1629. Slowest Key", "1629. Slowest Key\1629. Slowest Key.csproj", "{45B97169-F1D0-49B6-938B-3FC4B8751DC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.csproj", "{657DB935-A4A7-4865-98BE-4F7FEDC1EA5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.csproj", "{657DB935-A4A7-4865-98BE-4F7FEDC1EA5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1624. Largest Substring Between Two Equal Characters", "1624. Largest Substring Between Two Equal Characters\1624. Largest Substring Between Two Equal Characters.csproj", "{E4EEB035-B00C-40F1-B73F-DAE0494223AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1624. Largest Substring Between Two Equal Characters", "1624. Largest Substring Between Two Equal Characters\1624. Largest Substring Between Two Equal Characters.csproj", "{E4EEB035-B00C-40F1-B73F-DAE0494223AA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1758. Minimum Changes To Make Alternating Binary String", "1758. Minimum Changes To Make Alternating Binary String\1758. Minimum Changes To Make Alternating Binary String.csproj", "{424F2795-C9EE-4DBB-9CEF-844667C6C1B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.csproj", "{330CF342-7244-4BC0-A0D3-265621F57C5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{7466E55D-E97C-4E54-A709-5A4226691985}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "748. Shortest Completing Word", "748. Shortest Completing Word\748. Shortest Completing Word.csproj", "{DFE53449-8989-42B5-BC21-9E9E11DA249B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "171. Excel Sheet Column Number", "171. Excel Sheet Column Number\171. Excel Sheet Column Number.csproj", "{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1313,6 +1323,26 @@ Global
 		{E4EEB035-B00C-40F1-B73F-DAE0494223AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4EEB035-B00C-40F1-B73F-DAE0494223AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4EEB035-B00C-40F1-B73F-DAE0494223AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424F2795-C9EE-4DBB-9CEF-844667C6C1B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424F2795-C9EE-4DBB-9CEF-844667C6C1B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424F2795-C9EE-4DBB-9CEF-844667C6C1B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424F2795-C9EE-4DBB-9CEF-844667C6C1B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330CF342-7244-4BC0-A0D3-265621F57C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330CF342-7244-4BC0-A0D3-265621F57C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330CF342-7244-4BC0-A0D3-265621F57C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330CF342-7244-4BC0-A0D3-265621F57C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7466E55D-E97C-4E54-A709-5A4226691985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7466E55D-E97C-4E54-A709-5A4226691985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7466E55D-E97C-4E54-A709-5A4226691985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7466E55D-E97C-4E54-A709-5A4226691985}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFE53449-8989-42B5-BC21-9E9E11DA249B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE53449-8989-42B5-BC21-9E9E11DA249B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE53449-8989-42B5-BC21-9E9E11DA249B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE53449-8989-42B5-BC21-9E9E11DA249B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
