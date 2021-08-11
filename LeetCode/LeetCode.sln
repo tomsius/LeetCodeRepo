@@ -437,11 +437,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1758. Minimum Changes To Ma
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "389. Find the Difference", "389. Find the Difference\389. Find the Difference.csproj", "{330CF342-7244-4BC0-A0D3-265621F57C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{7466E55D-E97C-4E54-A709-5A4226691985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "118. Pascal's Triangle", "118. Pascal's Triangle\118. Pascal's Triangle.csproj", "{7466E55D-E97C-4E54-A709-5A4226691985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "748. Shortest Completing Word", "748. Shortest Completing Word\748. Shortest Completing Word.csproj", "{DFE53449-8989-42B5-BC21-9E9E11DA249B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "748. Shortest Completing Word", "748. Shortest Completing Word\748. Shortest Completing Word.csproj", "{DFE53449-8989-42B5-BC21-9E9E11DA249B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "171. Excel Sheet Column Number", "171. Excel Sheet Column Number\171. Excel Sheet Column Number.csproj", "{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "171. Excel Sheet Column Number", "171. Excel Sheet Column Number\171. Excel Sheet Column Number.csproj", "{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "217. Contains Duplicate", "217. Contains Duplicate\217. Contains Duplicate.csproj", "{5C699725-536F-485E-9DE6-EA2EA14A7421}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "896. Monotonic Array", "896. Monotonic Array\896. Monotonic Array.csproj", "{2DAB4E65-AB4C-4EAC-9AA4-19DACFF488FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1854. Maximum Population Year", "1854. Maximum Population Year\1854. Maximum Population Year.csproj", "{63BDC952-6E15-4183-99DB-05005B452640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1903. Largest Odd Number in String", "1903. Largest Odd Number in String\1903. Largest Odd Number in String.csproj", "{BC5A3FC5-91BD-41AA-B83F-C78C1A5364A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1422. Maximum Score After Splitting a String", "1422. Maximum Score After Splitting a String\1422. Maximum Score After Splitting a String.csproj", "{902C3BF5-47F3-43C5-8DBB-4E2FD780634A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1343,6 +1353,26 @@ Global
 		{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0258CD5-FE9A-44A9-BE42-2AC206AD13A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C699725-536F-485E-9DE6-EA2EA14A7421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C699725-536F-485E-9DE6-EA2EA14A7421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C699725-536F-485E-9DE6-EA2EA14A7421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C699725-536F-485E-9DE6-EA2EA14A7421}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAB4E65-AB4C-4EAC-9AA4-19DACFF488FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAB4E65-AB4C-4EAC-9AA4-19DACFF488FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAB4E65-AB4C-4EAC-9AA4-19DACFF488FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAB4E65-AB4C-4EAC-9AA4-19DACFF488FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63BDC952-6E15-4183-99DB-05005B452640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63BDC952-6E15-4183-99DB-05005B452640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63BDC952-6E15-4183-99DB-05005B452640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63BDC952-6E15-4183-99DB-05005B452640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5A3FC5-91BD-41AA-B83F-C78C1A5364A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5A3FC5-91BD-41AA-B83F-C78C1A5364A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5A3FC5-91BD-41AA-B83F-C78C1A5364A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5A3FC5-91BD-41AA-B83F-C78C1A5364A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{902C3BF5-47F3-43C5-8DBB-4E2FD780634A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{902C3BF5-47F3-43C5-8DBB-4E2FD780634A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{902C3BF5-47F3-43C5-8DBB-4E2FD780634A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{902C3BF5-47F3-43C5-8DBB-4E2FD780634A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
