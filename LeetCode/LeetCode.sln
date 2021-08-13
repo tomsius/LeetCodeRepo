@@ -453,15 +453,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1903. Largest Odd Number in
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1422. Maximum Score After Splitting a String", "1422. Maximum Score After Splitting a String\1422. Maximum Score After Splitting a String.csproj", "{902C3BF5-47F3-43C5-8DBB-4E2FD780634A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1331. Rank Transform of an Array", "1331. Rank Transform of an Array\1331. Rank Transform of an Array.csproj", "{AFB67B44-D773-4C9B-AF7E-2DFA942B2E1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1331. Rank Transform of an Array", "1331. Rank Transform of an Array\1331. Rank Transform of an Array.csproj", "{AFB67B44-D773-4C9B-AF7E-2DFA942B2E1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1560. Most Visited Sector in a Circular Track", "1560. Most Visited Sector in a Circular Track\1560. Most Visited Sector in a Circular Track.csproj", "{7A803DA8-A919-4FD7-A94D-0DC4F5427765}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1560. Most Visited Sector in a Circular Track", "1560. Most Visited Sector in a Circular Track\1560. Most Visited Sector in a Circular Track.csproj", "{7A803DA8-A919-4FD7-A94D-0DC4F5427765}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{E1E8EE1B-310A-4B64-804C-ACA8C991ABDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13. Roman to Integer", "13. Roman to Integer\13. Roman to Integer.csproj", "{E1E8EE1B-310A-4B64-804C-ACA8C991ABDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. Merge Two Sorted Lists", "21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.csproj", "{6E365ED5-20D6-4107-93EF-23225D21FCE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. Merge Two Sorted Lists", "21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.csproj", "{6E365ED5-20D6-4107-93EF-23225D21FCE9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1317. Convert Integer to the Sum of Two No-Zero Integers", "1317. Convert Integer to the Sum of Two No-Zero Integers\1317. Convert Integer to the Sum of Two No-Zero Integers.csproj", "{42E446EF-6A93-4179-9D88-7A1301AF44FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1317. Convert Integer to the Sum of Two No-Zero Integers", "1317. Convert Integer to the Sum of Two No-Zero Integers\1317. Convert Integer to the Sum of Two No-Zero Integers.csproj", "{42E446EF-6A93-4179-9D88-7A1301AF44FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1556. Thousand Separator", "1556. Thousand Separator\1556. Thousand Separator.csproj", "{053E89E9-8097-4D13-AF55-B2E63DC527BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "448. Find All Numbers Disappeared in an Array", "448. Find All Numbers Disappeared in an Array\448. Find All Numbers Disappeared in an Array.csproj", "{D00C20AD-3F57-401A-AB0B-FEBE8C128495}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{3DEAF108-6C37-4331-BE86-64254FFB5846}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{6369E9BD-8E5A-4028-811F-6FB3B716AF97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1417. Reformat The String", "1417. Reformat The String\1417. Reformat The String.csproj", "{577D0BDD-6C46-45AD-A666-158C249AEBC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1403,6 +1413,26 @@ Global
 		{42E446EF-6A93-4179-9D88-7A1301AF44FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42E446EF-6A93-4179-9D88-7A1301AF44FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42E446EF-6A93-4179-9D88-7A1301AF44FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{053E89E9-8097-4D13-AF55-B2E63DC527BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053E89E9-8097-4D13-AF55-B2E63DC527BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053E89E9-8097-4D13-AF55-B2E63DC527BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053E89E9-8097-4D13-AF55-B2E63DC527BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00C20AD-3F57-401A-AB0B-FEBE8C128495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00C20AD-3F57-401A-AB0B-FEBE8C128495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00C20AD-3F57-401A-AB0B-FEBE8C128495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00C20AD-3F57-401A-AB0B-FEBE8C128495}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEAF108-6C37-4331-BE86-64254FFB5846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEAF108-6C37-4331-BE86-64254FFB5846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEAF108-6C37-4331-BE86-64254FFB5846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEAF108-6C37-4331-BE86-64254FFB5846}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6369E9BD-8E5A-4028-811F-6FB3B716AF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6369E9BD-8E5A-4028-811F-6FB3B716AF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6369E9BD-8E5A-4028-811F-6FB3B716AF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6369E9BD-8E5A-4028-811F-6FB3B716AF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577D0BDD-6C46-45AD-A666-158C249AEBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577D0BDD-6C46-45AD-A666-158C249AEBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577D0BDD-6C46-45AD-A666-158C249AEBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577D0BDD-6C46-45AD-A666-158C249AEBC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
