@@ -463,15 +463,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. Merge Two Sorted Lists"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1317. Convert Integer to the Sum of Two No-Zero Integers", "1317. Convert Integer to the Sum of Two No-Zero Integers\1317. Convert Integer to the Sum of Two No-Zero Integers.csproj", "{42E446EF-6A93-4179-9D88-7A1301AF44FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1556. Thousand Separator", "1556. Thousand Separator\1556. Thousand Separator.csproj", "{053E89E9-8097-4D13-AF55-B2E63DC527BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1556. Thousand Separator", "1556. Thousand Separator\1556. Thousand Separator.csproj", "{053E89E9-8097-4D13-AF55-B2E63DC527BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "448. Find All Numbers Disappeared in an Array", "448. Find All Numbers Disappeared in an Array\448. Find All Numbers Disappeared in an Array.csproj", "{D00C20AD-3F57-401A-AB0B-FEBE8C128495}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "448. Find All Numbers Disappeared in an Array", "448. Find All Numbers Disappeared in an Array\448. Find All Numbers Disappeared in an Array.csproj", "{D00C20AD-3F57-401A-AB0B-FEBE8C128495}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{3DEAF108-6C37-4331-BE86-64254FFB5846}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Two Sum", "1. Two Sum\1. Two Sum.csproj", "{3DEAF108-6C37-4331-BE86-64254FFB5846}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{6369E9BD-8E5A-4028-811F-6FB3B716AF97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "268. Missing Number", "268. Missing Number\268. Missing Number.csproj", "{6369E9BD-8E5A-4028-811F-6FB3B716AF97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1417. Reformat The String", "1417. Reformat The String\1417. Reformat The String.csproj", "{577D0BDD-6C46-45AD-A666-158C249AEBC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1417. Reformat The String", "1417. Reformat The String\1417. Reformat The String.csproj", "{577D0BDD-6C46-45AD-A666-158C249AEBC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1967. Number of Strings That Appear as Substrings in Word", "1967. Number of Strings That Appear as Substrings in Word\1967. Number of Strings That Appear as Substrings in Word.csproj", "{97BF067C-6F68-4DE6-A7DC-FC07CDD7FA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input array is sorted", "167. Two Sum II - Input array is sorted\167. Two Sum II - Input array is sorted.csproj", "{7D316ED3-4BB7-49B9-B7AC-6E86AE3E9E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{2C709B14-849E-4CC4-BA13-C3E37391FEC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "606. Construct String from Binary Tree", "606. Construct String from Binary Tree\606. Construct String from Binary Tree.csproj", "{1D14F717-BC59-414F-9462-545883B1FF19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1137. N-th Tribonacci Number", "1137. N-th Tribonacci Number\1137. N-th Tribonacci Number.csproj", "{4A434CE3-1394-4368-A9AD-819DFCCE322C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1433,6 +1443,26 @@ Global
 		{577D0BDD-6C46-45AD-A666-158C249AEBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{577D0BDD-6C46-45AD-A666-158C249AEBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{577D0BDD-6C46-45AD-A666-158C249AEBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97BF067C-6F68-4DE6-A7DC-FC07CDD7FA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97BF067C-6F68-4DE6-A7DC-FC07CDD7FA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97BF067C-6F68-4DE6-A7DC-FC07CDD7FA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97BF067C-6F68-4DE6-A7DC-FC07CDD7FA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D316ED3-4BB7-49B9-B7AC-6E86AE3E9E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D316ED3-4BB7-49B9-B7AC-6E86AE3E9E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D316ED3-4BB7-49B9-B7AC-6E86AE3E9E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D316ED3-4BB7-49B9-B7AC-6E86AE3E9E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C709B14-849E-4CC4-BA13-C3E37391FEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C709B14-849E-4CC4-BA13-C3E37391FEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C709B14-849E-4CC4-BA13-C3E37391FEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C709B14-849E-4CC4-BA13-C3E37391FEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D14F717-BC59-414F-9462-545883B1FF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D14F717-BC59-414F-9462-545883B1FF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D14F717-BC59-414F-9462-545883B1FF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D14F717-BC59-414F-9462-545883B1FF19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A434CE3-1394-4368-A9AD-819DFCCE322C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A434CE3-1394-4368-A9AD-819DFCCE322C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A434CE3-1394-4368-A9AD-819DFCCE322C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A434CE3-1394-4368-A9AD-819DFCCE322C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
