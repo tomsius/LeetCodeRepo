@@ -473,15 +473,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "268. Missing Number", "268.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1417. Reformat The String", "1417. Reformat The String\1417. Reformat The String.csproj", "{577D0BDD-6C46-45AD-A666-158C249AEBC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1967. Number of Strings That Appear as Substrings in Word", "1967. Number of Strings That Appear as Substrings in Word\1967. Number of Strings That Appear as Substrings in Word.csproj", "{97BF067C-6F68-4DE6-A7DC-FC07CDD7FA3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1967. Number of Strings That Appear as Substrings in Word", "1967. Number of Strings That Appear as Substrings in Word\1967. Number of Strings That Appear as Substrings in Word.csproj", "{97BF067C-6F68-4DE6-A7DC-FC07CDD7FA3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "167. Two Sum II - Input array is sorted", "167. Two Sum II - Input array is sorted\167. Two Sum II - Input array is sorted.csproj", "{7D316ED3-4BB7-49B9-B7AC-6E86AE3E9E02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "167. Two Sum II - Input array is sorted", "167. Two Sum II - Input array is sorted\167. Two Sum II - Input array is sorted.csproj", "{7D316ED3-4BB7-49B9-B7AC-6E86AE3E9E02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{2C709B14-849E-4CC4-BA13-C3E37391FEC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "653. Two Sum IV - Input is a BST", "653. Two Sum IV - Input is a BST\653. Two Sum IV - Input is a BST.csproj", "{2C709B14-849E-4CC4-BA13-C3E37391FEC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "606. Construct String from Binary Tree", "606. Construct String from Binary Tree\606. Construct String from Binary Tree.csproj", "{1D14F717-BC59-414F-9462-545883B1FF19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "606. Construct String from Binary Tree", "606. Construct String from Binary Tree\606. Construct String from Binary Tree.csproj", "{1D14F717-BC59-414F-9462-545883B1FF19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1137. N-th Tribonacci Number", "1137. N-th Tribonacci Number\1137. N-th Tribonacci Number.csproj", "{4A434CE3-1394-4368-A9AD-819DFCCE322C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1137. N-th Tribonacci Number", "1137. N-th Tribonacci Number\1137. N-th Tribonacci Number.csproj", "{4A434CE3-1394-4368-A9AD-819DFCCE322C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1971. Find if Path Exists in Graph", "1971. Find if Path Exists in Graph\1971. Find if Path Exists in Graph.csproj", "{199C3BEF-6DDB-43D3-AE76-96EE8EBA71EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "495. Teemo Attacking", "495. Teemo Attacking\495. Teemo Attacking.csproj", "{23021CF1-2D66-4B73-B933-83BBBCE92C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "733. Flood Fill", "733. Flood Fill\733. Flood Fill.csproj", "{055C7279-2B2B-4BB2-BBD0-01355F19CEE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "191. Number of 1 Bits", "191. Number of 1 Bits\191. Number of 1 Bits.csproj", "{4BDB753A-867E-41B3-848C-9943741EE149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1544. Make The String Great", "1544. Make The String Great\1544. Make The String Great.csproj", "{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1463,6 +1473,26 @@ Global
 		{4A434CE3-1394-4368-A9AD-819DFCCE322C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A434CE3-1394-4368-A9AD-819DFCCE322C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A434CE3-1394-4368-A9AD-819DFCCE322C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{199C3BEF-6DDB-43D3-AE76-96EE8EBA71EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{199C3BEF-6DDB-43D3-AE76-96EE8EBA71EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{199C3BEF-6DDB-43D3-AE76-96EE8EBA71EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{199C3BEF-6DDB-43D3-AE76-96EE8EBA71EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23021CF1-2D66-4B73-B933-83BBBCE92C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23021CF1-2D66-4B73-B933-83BBBCE92C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23021CF1-2D66-4B73-B933-83BBBCE92C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23021CF1-2D66-4B73-B933-83BBBCE92C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055C7279-2B2B-4BB2-BBD0-01355F19CEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055C7279-2B2B-4BB2-BBD0-01355F19CEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055C7279-2B2B-4BB2-BBD0-01355F19CEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055C7279-2B2B-4BB2-BBD0-01355F19CEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDB753A-867E-41B3-848C-9943741EE149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDB753A-867E-41B3-848C-9943741EE149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDB753A-867E-41B3-848C-9943741EE149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDB753A-867E-41B3-848C-9943741EE149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
