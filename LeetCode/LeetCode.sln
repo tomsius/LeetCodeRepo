@@ -483,15 +483,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "606. Construct String from 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1137. N-th Tribonacci Number", "1137. N-th Tribonacci Number\1137. N-th Tribonacci Number.csproj", "{4A434CE3-1394-4368-A9AD-819DFCCE322C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1971. Find if Path Exists in Graph", "1971. Find if Path Exists in Graph\1971. Find if Path Exists in Graph.csproj", "{199C3BEF-6DDB-43D3-AE76-96EE8EBA71EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1971. Find if Path Exists in Graph", "1971. Find if Path Exists in Graph\1971. Find if Path Exists in Graph.csproj", "{199C3BEF-6DDB-43D3-AE76-96EE8EBA71EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "495. Teemo Attacking", "495. Teemo Attacking\495. Teemo Attacking.csproj", "{23021CF1-2D66-4B73-B933-83BBBCE92C79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "495. Teemo Attacking", "495. Teemo Attacking\495. Teemo Attacking.csproj", "{23021CF1-2D66-4B73-B933-83BBBCE92C79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "733. Flood Fill", "733. Flood Fill\733. Flood Fill.csproj", "{055C7279-2B2B-4BB2-BBD0-01355F19CEE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "733. Flood Fill", "733. Flood Fill\733. Flood Fill.csproj", "{055C7279-2B2B-4BB2-BBD0-01355F19CEE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "191. Number of 1 Bits", "191. Number of 1 Bits\191. Number of 1 Bits.csproj", "{4BDB753A-867E-41B3-848C-9943741EE149}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "191. Number of 1 Bits", "191. Number of 1 Bits\191. Number of 1 Bits.csproj", "{4BDB753A-867E-41B3-848C-9943741EE149}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1544. Make The String Great", "1544. Make The String Great\1544. Make The String Great.csproj", "{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1544. Make The String Great", "1544. Make The String Great\1544. Make The String Great.csproj", "{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1952. Three Divisors", "1952. Three Divisors\1952. Three Divisors.csproj", "{AE0305AC-8F44-4253-A429-63F65991DBED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "257. Binary Tree Paths", "257. Binary Tree Paths\257. Binary Tree Paths.csproj", "{9B8A9BCE-3BDB-4953-A5A2-360958B6C696}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "530. Minimum Absolute Difference in BST", "530. Minimum Absolute Difference in BST\530. Minimum Absolute Difference in BST.csproj", "{30817A82-FDFA-427A-B8D7-92EAA2655835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1640. Check Array Formation Through Concatenation", "1640. Check Array Formation Through Concatenation\1640. Check Array Formation Through Concatenation.csproj", "{82784E50-4D4B-4654-A49F-23E344513330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "937. Reorder Data in Log Files", "937. Reorder Data in Log Files\937. Reorder Data in Log Files.csproj", "{02A8B38C-643C-435F-A31E-D2A62C94C4A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1493,6 +1503,26 @@ Global
 		{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A46A84-C281-498F-80B6-6E1F1BBFEEEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE0305AC-8F44-4253-A429-63F65991DBED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE0305AC-8F44-4253-A429-63F65991DBED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE0305AC-8F44-4253-A429-63F65991DBED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE0305AC-8F44-4253-A429-63F65991DBED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8A9BCE-3BDB-4953-A5A2-360958B6C696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8A9BCE-3BDB-4953-A5A2-360958B6C696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8A9BCE-3BDB-4953-A5A2-360958B6C696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8A9BCE-3BDB-4953-A5A2-360958B6C696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30817A82-FDFA-427A-B8D7-92EAA2655835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30817A82-FDFA-427A-B8D7-92EAA2655835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30817A82-FDFA-427A-B8D7-92EAA2655835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30817A82-FDFA-427A-B8D7-92EAA2655835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82784E50-4D4B-4654-A49F-23E344513330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82784E50-4D4B-4654-A49F-23E344513330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82784E50-4D4B-4654-A49F-23E344513330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82784E50-4D4B-4654-A49F-23E344513330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A8B38C-643C-435F-A31E-D2A62C94C4A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A8B38C-643C-435F-A31E-D2A62C94C4A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A8B38C-643C-435F-A31E-D2A62C94C4A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A8B38C-643C-435F-A31E-D2A62C94C4A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
