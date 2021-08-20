@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_1961._Check_If_String_Is_a_Prefix_of_Array</RootNamespace>
+  </PropertyGroup>
+
+</Project>
