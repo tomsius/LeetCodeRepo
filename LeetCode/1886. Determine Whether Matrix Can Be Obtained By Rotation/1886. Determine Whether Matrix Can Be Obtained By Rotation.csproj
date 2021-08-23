@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_1886._Determine_Whether_Matrix_Can_Be_Obtained_By_Rotation</RootNamespace>
+  </PropertyGroup>
+
+</Project>

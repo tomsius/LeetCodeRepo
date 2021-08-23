@@ -513,15 +513,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "697. Degree of an Array", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "387. First Unique Character in a String", "387. First Unique Character in a String\387. First Unique Character in a String.csproj", "{0E3F0B52-A168-462C-817E-42BEED833CBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "704. Binary Search", "704. Binary Search\704. Binary Search.csproj", "{295BCA20-DE9D-4DF6-A096-2635EA1A3970}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "704. Binary Search", "704. Binary Search\704. Binary Search.csproj", "{295BCA20-DE9D-4DF6-A096-2635EA1A3970}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1539. Kth Missing Positive Number", "1539. Kth Missing Positive Number\1539. Kth Missing Positive Number.csproj", "{50003257-C849-4943-9895-5099726460EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1539. Kth Missing Positive Number", "1539. Kth Missing Positive Number\1539. Kth Missing Positive Number.csproj", "{50003257-C849-4943-9895-5099726460EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{F4DA6018-2AF3-4EE5-AB4D-59B6239DC3B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "100. Same Tree", "100. Same Tree\100. Same Tree.csproj", "{F4DA6018-2AF3-4EE5-AB4D-59B6239DC3B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "563. Binary Tree Tilt", "563. Binary Tree Tilt\563. Binary Tree Tilt.csproj", "{8C63916C-18DC-4710-A711-842856472325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "563. Binary Tree Tilt", "563. Binary Tree Tilt\563. Binary Tree Tilt.csproj", "{8C63916C-18DC-4710-A711-842856472325}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1961. Check If String Is a Prefix of Array", "1961. Check If String Is a Prefix of Array\1961. Check If String Is a Prefix of Array.csproj", "{349580CA-C307-4716-8AAC-E9BF60810719}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1961. Check If String Is a Prefix of Array", "1961. Check If String Is a Prefix of Array\1961. Check If String Is a Prefix of Array.csproj", "{349580CA-C307-4716-8AAC-E9BF60810719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1979. Find Greatest Common Divisor of Array", "1979. Find Greatest Common Divisor of Array\1979. Find Greatest Common Divisor of Array.csproj", "{1445A989-4A48-4DDD-9A64-D4D9779A240C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1974. Minimum Time to Type Word Using Special Typewriter", "1974. Minimum Time to Type Word Using Special Typewriter\1974. Minimum Time to Type Word Using Special Typewriter.csproj", "{B5039D63-C1B4-41F0-B0FC-C9DAE1AB4029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "232. Implement Queue using Stacks", "232. Implement Queue using Stacks\232. Implement Queue using Stacks.csproj", "{D7B600D7-CB7F-475B-A928-31D7ADFD60AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1886. Determine Whether Matrix Can Be Obtained By Rotation", "1886. Determine Whether Matrix Can Be Obtained By Rotation\1886. Determine Whether Matrix Can Be Obtained By Rotation.csproj", "{F52A1348-2FC9-4BBD-A0CA-1FC89484C502}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "520. Detect Capital", "520. Detect Capital\520. Detect Capital.csproj", "{36EA7E84-F3C4-499D-8409-C9047EF90E01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1583,6 +1593,26 @@ Global
 		{349580CA-C307-4716-8AAC-E9BF60810719}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{349580CA-C307-4716-8AAC-E9BF60810719}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{349580CA-C307-4716-8AAC-E9BF60810719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1445A989-4A48-4DDD-9A64-D4D9779A240C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1445A989-4A48-4DDD-9A64-D4D9779A240C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1445A989-4A48-4DDD-9A64-D4D9779A240C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1445A989-4A48-4DDD-9A64-D4D9779A240C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5039D63-C1B4-41F0-B0FC-C9DAE1AB4029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5039D63-C1B4-41F0-B0FC-C9DAE1AB4029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5039D63-C1B4-41F0-B0FC-C9DAE1AB4029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5039D63-C1B4-41F0-B0FC-C9DAE1AB4029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7B600D7-CB7F-475B-A928-31D7ADFD60AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7B600D7-CB7F-475B-A928-31D7ADFD60AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7B600D7-CB7F-475B-A928-31D7ADFD60AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7B600D7-CB7F-475B-A928-31D7ADFD60AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52A1348-2FC9-4BBD-A0CA-1FC89484C502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52A1348-2FC9-4BBD-A0CA-1FC89484C502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52A1348-2FC9-4BBD-A0CA-1FC89484C502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52A1348-2FC9-4BBD-A0CA-1FC89484C502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EA7E84-F3C4-499D-8409-C9047EF90E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EA7E84-F3C4-499D-8409-C9047EF90E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EA7E84-F3C4-499D-8409-C9047EF90E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EA7E84-F3C4-499D-8409-C9047EF90E01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
